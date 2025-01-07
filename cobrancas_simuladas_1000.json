@@ -1,0 +1,8002 @@
+[
+    {
+        "cobranca": 1,
+        "distancia": 20.5,
+        "angulo": 45.5,
+        "altura": 2.8,
+        "velocidade": 10.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 2,
+        "distancia": 29.6,
+        "angulo": 47.4,
+        "altura": 1.9,
+        "velocidade": 13.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 3,
+        "distancia": 17.5,
+        "angulo": 39.0,
+        "altura": 1.9,
+        "velocidade": 11.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 4,
+        "distancia": 25.1,
+        "angulo": 25.0,
+        "altura": 2.8,
+        "velocidade": 33.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 5,
+        "distancia": 17.3,
+        "angulo": 31.1,
+        "altura": 1.3,
+        "velocidade": 23.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 6,
+        "distancia": 12.3,
+        "angulo": 54.8,
+        "altura": 1.5,
+        "velocidade": 31.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 7,
+        "distancia": 19.2,
+        "angulo": 37.0,
+        "altura": 2.8,
+        "velocidade": 16.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 8,
+        "distancia": 28.6,
+        "angulo": 54.2,
+        "altura": 2.7,
+        "velocidade": 37.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 9,
+        "distancia": 21.4,
+        "angulo": 41.3,
+        "altura": 0.5,
+        "velocidade": 21.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 10,
+        "distancia": 13.8,
+        "angulo": 59.6,
+        "altura": 2.8,
+        "velocidade": 37.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 11,
+        "distancia": 23.6,
+        "angulo": 40.2,
+        "altura": 1.4,
+        "velocidade": 39.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 12,
+        "distancia": 26.2,
+        "angulo": 55.3,
+        "altura": 2.0,
+        "velocidade": 16.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 13,
+        "distancia": 14.4,
+        "angulo": 22.5,
+        "altura": 2.7,
+        "velocidade": 20.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 14,
+        "distancia": 24.6,
+        "angulo": 40.9,
+        "altura": 1.3,
+        "velocidade": 29.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 15,
+        "distancia": 24.0,
+        "angulo": 42.2,
+        "altura": 1.2,
+        "velocidade": 13.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 16,
+        "distancia": 27.4,
+        "angulo": 47.4,
+        "altura": 1.9,
+        "velocidade": 11.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 17,
+        "distancia": 25.5,
+        "angulo": 21.3,
+        "altura": 1.9,
+        "velocidade": 13.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 18,
+        "distancia": 22.8,
+        "angulo": 29.7,
+        "altura": 2.3,
+        "velocidade": 30.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 19,
+        "distancia": 21.1,
+        "angulo": 24.6,
+        "altura": 1.6,
+        "velocidade": 20.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 20,
+        "distancia": 21.7,
+        "angulo": 53.8,
+        "altura": 1.4,
+        "velocidade": 21.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 21,
+        "distancia": 22.1,
+        "angulo": 54.8,
+        "altura": 2.1,
+        "velocidade": 36.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 22,
+        "distancia": 26.3,
+        "angulo": 56.4,
+        "altura": 2.6,
+        "velocidade": 28.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 23,
+        "distancia": 15.9,
+        "angulo": 43.5,
+        "altura": 2.7,
+        "velocidade": 13.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 24,
+        "distancia": 26.7,
+        "angulo": 46.8,
+        "altura": 0.7,
+        "velocidade": 39.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 25,
+        "distancia": 26.8,
+        "angulo": 27.2,
+        "altura": 2.0,
+        "velocidade": 37.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 26,
+        "distancia": 14.7,
+        "angulo": 52.0,
+        "altura": 1.4,
+        "velocidade": 12.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 27,
+        "distancia": 18.1,
+        "angulo": 54.3,
+        "altura": 2.6,
+        "velocidade": 38.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 28,
+        "distancia": 26.6,
+        "angulo": 58.2,
+        "altura": 1.5,
+        "velocidade": 32.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 29,
+        "distancia": 27.7,
+        "angulo": 49.8,
+        "altura": 2.4,
+        "velocidade": 34.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 30,
+        "distancia": 28.7,
+        "angulo": 26.4,
+        "altura": 0.9,
+        "velocidade": 18.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 31,
+        "distancia": 17.5,
+        "angulo": 32.4,
+        "altura": 2.8,
+        "velocidade": 26.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 32,
+        "distancia": 13.6,
+        "angulo": 25.5,
+        "altura": 2.9,
+        "velocidade": 13.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 33,
+        "distancia": 14.0,
+        "angulo": 46.8,
+        "altura": 1.7,
+        "velocidade": 15.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 34,
+        "distancia": 24.9,
+        "angulo": 23.4,
+        "altura": 2.8,
+        "velocidade": 21.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 35,
+        "distancia": 24.6,
+        "angulo": 26.2,
+        "altura": 0.6,
+        "velocidade": 34.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 36,
+        "distancia": 23.2,
+        "angulo": 37.5,
+        "altura": 1.6,
+        "velocidade": 13.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 37,
+        "distancia": 28.5,
+        "angulo": 30.7,
+        "altura": 2.1,
+        "velocidade": 35.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 38,
+        "distancia": 13.7,
+        "angulo": 43.6,
+        "altura": 2.1,
+        "velocidade": 13.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 39,
+        "distancia": 10.5,
+        "angulo": 53.3,
+        "altura": 2.3,
+        "velocidade": 29.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 40,
+        "distancia": 19.9,
+        "angulo": 56.7,
+        "altura": 1.9,
+        "velocidade": 19.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 41,
+        "distancia": 27.3,
+        "angulo": 30.9,
+        "altura": 0.8,
+        "velocidade": 17.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 42,
+        "distancia": 19.5,
+        "angulo": 34.7,
+        "altura": 0.5,
+        "velocidade": 10.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 43,
+        "distancia": 23.5,
+        "angulo": 47.0,
+        "altura": 1.3,
+        "velocidade": 11.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 44,
+        "distancia": 17.2,
+        "angulo": 39.0,
+        "altura": 1.4,
+        "velocidade": 19.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 45,
+        "distancia": 22.5,
+        "angulo": 39.3,
+        "altura": 0.6,
+        "velocidade": 36.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 46,
+        "distancia": 14.8,
+        "angulo": 41.4,
+        "altura": 0.7,
+        "velocidade": 33.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 47,
+        "distancia": 12.5,
+        "angulo": 55.4,
+        "altura": 1.5,
+        "velocidade": 17.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 48,
+        "distancia": 16.5,
+        "angulo": 28.7,
+        "altura": 1.2,
+        "velocidade": 38.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 49,
+        "distancia": 13.2,
+        "angulo": 21.0,
+        "altura": 0.7,
+        "velocidade": 36.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 50,
+        "distancia": 26.5,
+        "angulo": 25.7,
+        "altura": 1.8,
+        "velocidade": 12.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 51,
+        "distancia": 23.2,
+        "angulo": 58.2,
+        "altura": 0.6,
+        "velocidade": 35.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 52,
+        "distancia": 29.0,
+        "angulo": 55.5,
+        "altura": 2.0,
+        "velocidade": 23.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 53,
+        "distancia": 27.9,
+        "angulo": 59.5,
+        "altura": 0.9,
+        "velocidade": 27.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 54,
+        "distancia": 25.9,
+        "angulo": 44.7,
+        "altura": 1.2,
+        "velocidade": 16.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 55,
+        "distancia": 20.5,
+        "angulo": 42.3,
+        "altura": 1.7,
+        "velocidade": 23.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 56,
+        "distancia": 15.6,
+        "angulo": 42.8,
+        "altura": 2.0,
+        "velocidade": 34.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 57,
+        "distancia": 14.5,
+        "angulo": 51.4,
+        "altura": 1.2,
+        "velocidade": 15.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 58,
+        "distancia": 14.9,
+        "angulo": 47.1,
+        "altura": 2.3,
+        "velocidade": 25.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 59,
+        "distancia": 13.9,
+        "angulo": 40.5,
+        "altura": 3.0,
+        "velocidade": 36.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 60,
+        "distancia": 12.1,
+        "angulo": 43.4,
+        "altura": 2.2,
+        "velocidade": 21.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 61,
+        "distancia": 20.9,
+        "angulo": 57.3,
+        "altura": 0.8,
+        "velocidade": 30.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 62,
+        "distancia": 21.0,
+        "angulo": 57.8,
+        "altura": 2.7,
+        "velocidade": 29.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 63,
+        "distancia": 17.2,
+        "angulo": 45.2,
+        "altura": 2.4,
+        "velocidade": 15.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 64,
+        "distancia": 29.9,
+        "angulo": 52.3,
+        "altura": 1.8,
+        "velocidade": 39.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 65,
+        "distancia": 16.1,
+        "angulo": 37.8,
+        "altura": 1.9,
+        "velocidade": 13.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 66,
+        "distancia": 12.6,
+        "angulo": 31.5,
+        "altura": 1.1,
+        "velocidade": 12.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 67,
+        "distancia": 28.8,
+        "angulo": 28.2,
+        "altura": 0.6,
+        "velocidade": 16.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 68,
+        "distancia": 21.1,
+        "angulo": 57.5,
+        "altura": 1.6,
+        "velocidade": 25.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 69,
+        "distancia": 22.7,
+        "angulo": 39.1,
+        "altura": 1.3,
+        "velocidade": 18.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 70,
+        "distancia": 16.1,
+        "angulo": 57.2,
+        "altura": 2.8,
+        "velocidade": 23.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 71,
+        "distancia": 18.8,
+        "angulo": 56.0,
+        "altura": 1.8,
+        "velocidade": 32.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 72,
+        "distancia": 12.3,
+        "angulo": 44.9,
+        "altura": 2.2,
+        "velocidade": 24.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 73,
+        "distancia": 23.9,
+        "angulo": 42.6,
+        "altura": 2.1,
+        "velocidade": 30.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 74,
+        "distancia": 17.9,
+        "angulo": 28.8,
+        "altura": 0.8,
+        "velocidade": 35.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 75,
+        "distancia": 24.7,
+        "angulo": 46.7,
+        "altura": 1.0,
+        "velocidade": 25.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 76,
+        "distancia": 11.1,
+        "angulo": 47.6,
+        "altura": 1.2,
+        "velocidade": 10.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 77,
+        "distancia": 22.1,
+        "angulo": 25.1,
+        "altura": 2.6,
+        "velocidade": 13.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 78,
+        "distancia": 22.8,
+        "angulo": 56.4,
+        "altura": 0.9,
+        "velocidade": 32.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 79,
+        "distancia": 25.5,
+        "angulo": 20.1,
+        "altura": 2.9,
+        "velocidade": 18.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 80,
+        "distancia": 25.5,
+        "angulo": 33.9,
+        "altura": 2.9,
+        "velocidade": 34.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 81,
+        "distancia": 14.2,
+        "angulo": 31.4,
+        "altura": 2.8,
+        "velocidade": 35.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 82,
+        "distancia": 21.6,
+        "angulo": 34.6,
+        "altura": 1.5,
+        "velocidade": 14.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 83,
+        "distancia": 27.3,
+        "angulo": 45.1,
+        "altura": 1.3,
+        "velocidade": 14.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 84,
+        "distancia": 26.2,
+        "angulo": 55.5,
+        "altura": 0.9,
+        "velocidade": 27.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 85,
+        "distancia": 11.0,
+        "angulo": 30.5,
+        "altura": 2.1,
+        "velocidade": 16.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 86,
+        "distancia": 15.0,
+        "angulo": 21.4,
+        "altura": 2.4,
+        "velocidade": 14.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 87,
+        "distancia": 24.8,
+        "angulo": 47.9,
+        "altura": 0.6,
+        "velocidade": 20.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 88,
+        "distancia": 25.2,
+        "angulo": 32.9,
+        "altura": 1.2,
+        "velocidade": 26.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 89,
+        "distancia": 19.2,
+        "angulo": 50.4,
+        "altura": 2.4,
+        "velocidade": 30.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 90,
+        "distancia": 13.7,
+        "angulo": 37.9,
+        "altura": 1.8,
+        "velocidade": 34.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 91,
+        "distancia": 20.6,
+        "angulo": 26.9,
+        "altura": 2.7,
+        "velocidade": 36.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 92,
+        "distancia": 10.3,
+        "angulo": 53.6,
+        "altura": 0.8,
+        "velocidade": 28.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 93,
+        "distancia": 23.6,
+        "angulo": 33.3,
+        "altura": 1.9,
+        "velocidade": 14.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 94,
+        "distancia": 18.4,
+        "angulo": 49.0,
+        "altura": 1.8,
+        "velocidade": 12.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 95,
+        "distancia": 20.8,
+        "angulo": 46.5,
+        "altura": 1.0,
+        "velocidade": 16.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 96,
+        "distancia": 21.4,
+        "angulo": 25.8,
+        "altura": 2.7,
+        "velocidade": 33.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 97,
+        "distancia": 19.5,
+        "angulo": 59.0,
+        "altura": 2.0,
+        "velocidade": 25.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 98,
+        "distancia": 17.9,
+        "angulo": 39.1,
+        "altura": 0.9,
+        "velocidade": 13.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 99,
+        "distancia": 11.0,
+        "angulo": 31.9,
+        "altura": 2.3,
+        "velocidade": 34.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 100,
+        "distancia": 14.5,
+        "angulo": 51.0,
+        "altura": 0.8,
+        "velocidade": 33.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 101,
+        "distancia": 23.4,
+        "angulo": 49.9,
+        "altura": 2.2,
+        "velocidade": 31.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 102,
+        "distancia": 28.6,
+        "angulo": 25.4,
+        "altura": 0.8,
+        "velocidade": 35.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 103,
+        "distancia": 11.4,
+        "angulo": 26.9,
+        "altura": 1.4,
+        "velocidade": 22.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 104,
+        "distancia": 12.6,
+        "angulo": 32.1,
+        "altura": 0.9,
+        "velocidade": 26.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 105,
+        "distancia": 22.7,
+        "angulo": 31.8,
+        "altura": 2.9,
+        "velocidade": 33.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 106,
+        "distancia": 16.3,
+        "angulo": 27.8,
+        "altura": 2.2,
+        "velocidade": 25.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 107,
+        "distancia": 25.6,
+        "angulo": 45.7,
+        "altura": 2.7,
+        "velocidade": 38.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 108,
+        "distancia": 22.4,
+        "angulo": 44.2,
+        "altura": 0.9,
+        "velocidade": 36.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 109,
+        "distancia": 22.0,
+        "angulo": 49.8,
+        "altura": 1.7,
+        "velocidade": 21.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 110,
+        "distancia": 17.7,
+        "angulo": 23.1,
+        "altura": 1.8,
+        "velocidade": 19.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 111,
+        "distancia": 25.2,
+        "angulo": 41.5,
+        "altura": 2.8,
+        "velocidade": 27.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 112,
+        "distancia": 27.6,
+        "angulo": 43.8,
+        "altura": 2.3,
+        "velocidade": 24.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 113,
+        "distancia": 23.2,
+        "angulo": 37.8,
+        "altura": 1.6,
+        "velocidade": 28.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 114,
+        "distancia": 14.3,
+        "angulo": 38.0,
+        "altura": 3.0,
+        "velocidade": 10.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 115,
+        "distancia": 29.6,
+        "angulo": 22.3,
+        "altura": 1.8,
+        "velocidade": 17.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 116,
+        "distancia": 14.8,
+        "angulo": 57.7,
+        "altura": 1.4,
+        "velocidade": 23.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 117,
+        "distancia": 27.5,
+        "angulo": 36.6,
+        "altura": 0.8,
+        "velocidade": 31.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 118,
+        "distancia": 28.9,
+        "angulo": 46.0,
+        "altura": 2.4,
+        "velocidade": 20.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 119,
+        "distancia": 13.9,
+        "angulo": 45.2,
+        "altura": 2.8,
+        "velocidade": 31.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 120,
+        "distancia": 21.9,
+        "angulo": 34.5,
+        "altura": 2.5,
+        "velocidade": 10.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 121,
+        "distancia": 15.5,
+        "angulo": 57.4,
+        "altura": 1.6,
+        "velocidade": 15.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 122,
+        "distancia": 15.2,
+        "angulo": 51.5,
+        "altura": 2.2,
+        "velocidade": 23.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 123,
+        "distancia": 21.3,
+        "angulo": 35.1,
+        "altura": 2.4,
+        "velocidade": 17.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 124,
+        "distancia": 28.7,
+        "angulo": 30.1,
+        "altura": 0.7,
+        "velocidade": 24.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 125,
+        "distancia": 27.9,
+        "angulo": 34.5,
+        "altura": 2.0,
+        "velocidade": 16.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 126,
+        "distancia": 26.6,
+        "angulo": 29.1,
+        "altura": 2.5,
+        "velocidade": 37.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 127,
+        "distancia": 22.5,
+        "angulo": 30.1,
+        "altura": 1.7,
+        "velocidade": 22.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 128,
+        "distancia": 24.2,
+        "angulo": 42.8,
+        "altura": 1.4,
+        "velocidade": 10.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 129,
+        "distancia": 23.9,
+        "angulo": 26.6,
+        "altura": 1.3,
+        "velocidade": 23.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 130,
+        "distancia": 27.7,
+        "angulo": 28.8,
+        "altura": 2.3,
+        "velocidade": 31.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 131,
+        "distancia": 19.5,
+        "angulo": 37.3,
+        "altura": 2.1,
+        "velocidade": 26.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 132,
+        "distancia": 14.4,
+        "angulo": 47.9,
+        "altura": 3.0,
+        "velocidade": 34.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 133,
+        "distancia": 28.5,
+        "angulo": 30.1,
+        "altura": 1.4,
+        "velocidade": 28.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 134,
+        "distancia": 18.1,
+        "angulo": 53.8,
+        "altura": 1.5,
+        "velocidade": 18.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 135,
+        "distancia": 18.8,
+        "angulo": 32.2,
+        "altura": 0.9,
+        "velocidade": 38.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 136,
+        "distancia": 23.9,
+        "angulo": 43.5,
+        "altura": 0.9,
+        "velocidade": 26.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 137,
+        "distancia": 25.2,
+        "angulo": 40.4,
+        "altura": 2.9,
+        "velocidade": 15.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 138,
+        "distancia": 17.0,
+        "angulo": 28.6,
+        "altura": 2.9,
+        "velocidade": 15.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 139,
+        "distancia": 23.7,
+        "angulo": 49.7,
+        "altura": 1.5,
+        "velocidade": 40.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 140,
+        "distancia": 27.6,
+        "angulo": 56.3,
+        "altura": 2.2,
+        "velocidade": 16.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 141,
+        "distancia": 26.5,
+        "angulo": 36.7,
+        "altura": 2.7,
+        "velocidade": 17.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 142,
+        "distancia": 20.7,
+        "angulo": 58.5,
+        "altura": 0.8,
+        "velocidade": 11.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 143,
+        "distancia": 19.3,
+        "angulo": 45.4,
+        "altura": 1.6,
+        "velocidade": 25.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 144,
+        "distancia": 16.5,
+        "angulo": 43.2,
+        "altura": 2.4,
+        "velocidade": 15.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 145,
+        "distancia": 20.0,
+        "angulo": 20.9,
+        "altura": 0.6,
+        "velocidade": 16.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 146,
+        "distancia": 14.7,
+        "angulo": 27.7,
+        "altura": 2.1,
+        "velocidade": 24.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 147,
+        "distancia": 23.8,
+        "angulo": 20.7,
+        "altura": 0.7,
+        "velocidade": 38.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 148,
+        "distancia": 23.3,
+        "angulo": 55.0,
+        "altura": 1.7,
+        "velocidade": 28.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 149,
+        "distancia": 27.3,
+        "angulo": 49.3,
+        "altura": 0.6,
+        "velocidade": 10.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 150,
+        "distancia": 26.5,
+        "angulo": 37.7,
+        "altura": 1.0,
+        "velocidade": 34.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 151,
+        "distancia": 23.4,
+        "angulo": 30.1,
+        "altura": 0.8,
+        "velocidade": 13.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 152,
+        "distancia": 29.7,
+        "angulo": 58.6,
+        "altura": 2.7,
+        "velocidade": 38.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 153,
+        "distancia": 27.3,
+        "angulo": 26.3,
+        "altura": 3.0,
+        "velocidade": 28.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 154,
+        "distancia": 14.2,
+        "angulo": 55.7,
+        "altura": 1.6,
+        "velocidade": 15.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 155,
+        "distancia": 22.9,
+        "angulo": 44.6,
+        "altura": 1.7,
+        "velocidade": 20.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 156,
+        "distancia": 14.4,
+        "angulo": 31.3,
+        "altura": 2.7,
+        "velocidade": 34.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 157,
+        "distancia": 19.7,
+        "angulo": 52.1,
+        "altura": 2.8,
+        "velocidade": 36.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 158,
+        "distancia": 17.7,
+        "angulo": 44.4,
+        "altura": 2.0,
+        "velocidade": 24.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 159,
+        "distancia": 14.7,
+        "angulo": 28.7,
+        "altura": 0.9,
+        "velocidade": 13.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 160,
+        "distancia": 14.9,
+        "angulo": 31.7,
+        "altura": 2.8,
+        "velocidade": 15.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 161,
+        "distancia": 13.4,
+        "angulo": 33.7,
+        "altura": 2.2,
+        "velocidade": 22.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 162,
+        "distancia": 17.4,
+        "angulo": 56.7,
+        "altura": 0.6,
+        "velocidade": 20.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 163,
+        "distancia": 19.6,
+        "angulo": 58.1,
+        "altura": 0.6,
+        "velocidade": 35.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 164,
+        "distancia": 26.9,
+        "angulo": 56.5,
+        "altura": 0.9,
+        "velocidade": 26.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 165,
+        "distancia": 16.0,
+        "angulo": 47.5,
+        "altura": 0.8,
+        "velocidade": 26.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 166,
+        "distancia": 20.0,
+        "angulo": 24.8,
+        "altura": 0.7,
+        "velocidade": 18.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 167,
+        "distancia": 24.7,
+        "angulo": 26.6,
+        "altura": 2.2,
+        "velocidade": 22.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 168,
+        "distancia": 17.1,
+        "angulo": 34.6,
+        "altura": 2.8,
+        "velocidade": 37.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 169,
+        "distancia": 18.2,
+        "angulo": 37.5,
+        "altura": 2.6,
+        "velocidade": 20.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 170,
+        "distancia": 22.0,
+        "angulo": 37.2,
+        "altura": 0.8,
+        "velocidade": 15.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 171,
+        "distancia": 20.8,
+        "angulo": 57.8,
+        "altura": 0.8,
+        "velocidade": 37.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 172,
+        "distancia": 20.3,
+        "angulo": 53.7,
+        "altura": 2.1,
+        "velocidade": 20.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 173,
+        "distancia": 28.5,
+        "angulo": 34.6,
+        "altura": 1.3,
+        "velocidade": 10.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 174,
+        "distancia": 13.5,
+        "angulo": 23.9,
+        "altura": 1.3,
+        "velocidade": 10.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 175,
+        "distancia": 26.6,
+        "angulo": 33.1,
+        "altura": 0.7,
+        "velocidade": 27.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 176,
+        "distancia": 29.5,
+        "angulo": 35.2,
+        "altura": 0.9,
+        "velocidade": 11.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 177,
+        "distancia": 24.4,
+        "angulo": 59.9,
+        "altura": 1.1,
+        "velocidade": 15.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 178,
+        "distancia": 22.4,
+        "angulo": 38.5,
+        "altura": 1.0,
+        "velocidade": 18.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 179,
+        "distancia": 23.9,
+        "angulo": 28.3,
+        "altura": 1.9,
+        "velocidade": 11.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 180,
+        "distancia": 10.2,
+        "angulo": 28.9,
+        "altura": 1.6,
+        "velocidade": 37.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 181,
+        "distancia": 18.7,
+        "angulo": 50.4,
+        "altura": 0.8,
+        "velocidade": 23.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 182,
+        "distancia": 17.5,
+        "angulo": 42.7,
+        "altura": 1.7,
+        "velocidade": 17.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 183,
+        "distancia": 25.5,
+        "angulo": 57.4,
+        "altura": 0.8,
+        "velocidade": 26.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 184,
+        "distancia": 20.9,
+        "angulo": 29.8,
+        "altura": 0.8,
+        "velocidade": 30.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 185,
+        "distancia": 14.1,
+        "angulo": 27.4,
+        "altura": 1.3,
+        "velocidade": 22.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 186,
+        "distancia": 28.6,
+        "angulo": 35.1,
+        "altura": 2.1,
+        "velocidade": 12.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 187,
+        "distancia": 18.8,
+        "angulo": 42.2,
+        "altura": 1.8,
+        "velocidade": 14.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 188,
+        "distancia": 21.3,
+        "angulo": 20.0,
+        "altura": 1.7,
+        "velocidade": 29.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 189,
+        "distancia": 25.5,
+        "angulo": 42.4,
+        "altura": 1.0,
+        "velocidade": 33.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 190,
+        "distancia": 14.4,
+        "angulo": 40.8,
+        "altura": 2.1,
+        "velocidade": 22.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 191,
+        "distancia": 17.6,
+        "angulo": 53.2,
+        "altura": 1.2,
+        "velocidade": 34.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 192,
+        "distancia": 22.1,
+        "angulo": 33.1,
+        "altura": 0.7,
+        "velocidade": 15.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 193,
+        "distancia": 13.4,
+        "angulo": 27.3,
+        "altura": 1.8,
+        "velocidade": 10.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 194,
+        "distancia": 29.5,
+        "angulo": 29.0,
+        "altura": 1.8,
+        "velocidade": 11.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 195,
+        "distancia": 13.8,
+        "angulo": 31.3,
+        "altura": 1.4,
+        "velocidade": 30.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 196,
+        "distancia": 13.7,
+        "angulo": 27.6,
+        "altura": 2.3,
+        "velocidade": 19.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 197,
+        "distancia": 11.5,
+        "angulo": 52.4,
+        "altura": 2.0,
+        "velocidade": 14.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 198,
+        "distancia": 16.2,
+        "angulo": 44.9,
+        "altura": 2.2,
+        "velocidade": 25.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 199,
+        "distancia": 20.1,
+        "angulo": 20.2,
+        "altura": 2.3,
+        "velocidade": 15.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 200,
+        "distancia": 15.9,
+        "angulo": 25.5,
+        "altura": 0.7,
+        "velocidade": 27.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 201,
+        "distancia": 19.6,
+        "angulo": 23.1,
+        "altura": 2.7,
+        "velocidade": 17.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 202,
+        "distancia": 15.3,
+        "angulo": 29.2,
+        "altura": 2.5,
+        "velocidade": 20.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 203,
+        "distancia": 21.5,
+        "angulo": 52.7,
+        "altura": 2.6,
+        "velocidade": 34.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 204,
+        "distancia": 12.0,
+        "angulo": 49.7,
+        "altura": 2.4,
+        "velocidade": 19.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 205,
+        "distancia": 21.8,
+        "angulo": 29.7,
+        "altura": 0.7,
+        "velocidade": 19.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 206,
+        "distancia": 22.1,
+        "angulo": 36.8,
+        "altura": 2.4,
+        "velocidade": 28.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 207,
+        "distancia": 21.3,
+        "angulo": 48.0,
+        "altura": 2.1,
+        "velocidade": 27.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 208,
+        "distancia": 29.3,
+        "angulo": 20.4,
+        "altura": 0.7,
+        "velocidade": 10.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 209,
+        "distancia": 17.1,
+        "angulo": 37.3,
+        "altura": 3.0,
+        "velocidade": 38.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 210,
+        "distancia": 27.1,
+        "angulo": 55.2,
+        "altura": 1.3,
+        "velocidade": 21.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 211,
+        "distancia": 21.4,
+        "angulo": 24.2,
+        "altura": 1.0,
+        "velocidade": 14.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 212,
+        "distancia": 18.5,
+        "angulo": 23.0,
+        "altura": 1.1,
+        "velocidade": 33.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 213,
+        "distancia": 22.5,
+        "angulo": 48.3,
+        "altura": 0.7,
+        "velocidade": 11.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 214,
+        "distancia": 27.1,
+        "angulo": 26.7,
+        "altura": 2.4,
+        "velocidade": 11.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 215,
+        "distancia": 28.0,
+        "angulo": 52.4,
+        "altura": 2.2,
+        "velocidade": 37.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 216,
+        "distancia": 15.6,
+        "angulo": 39.1,
+        "altura": 0.6,
+        "velocidade": 29.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 217,
+        "distancia": 26.0,
+        "angulo": 52.0,
+        "altura": 1.8,
+        "velocidade": 23.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 218,
+        "distancia": 19.8,
+        "angulo": 36.8,
+        "altura": 2.8,
+        "velocidade": 34.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 219,
+        "distancia": 17.5,
+        "angulo": 37.0,
+        "altura": 1.0,
+        "velocidade": 13.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 220,
+        "distancia": 15.4,
+        "angulo": 21.4,
+        "altura": 1.4,
+        "velocidade": 28.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 221,
+        "distancia": 17.4,
+        "angulo": 40.5,
+        "altura": 1.7,
+        "velocidade": 34.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 222,
+        "distancia": 17.0,
+        "angulo": 45.4,
+        "altura": 2.1,
+        "velocidade": 38.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 223,
+        "distancia": 26.1,
+        "angulo": 56.2,
+        "altura": 2.3,
+        "velocidade": 15.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 224,
+        "distancia": 20.7,
+        "angulo": 57.5,
+        "altura": 2.6,
+        "velocidade": 39.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 225,
+        "distancia": 11.1,
+        "angulo": 55.6,
+        "altura": 1.0,
+        "velocidade": 34.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 226,
+        "distancia": 18.9,
+        "angulo": 42.2,
+        "altura": 3.0,
+        "velocidade": 33.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 227,
+        "distancia": 12.7,
+        "angulo": 50.1,
+        "altura": 0.8,
+        "velocidade": 19.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 228,
+        "distancia": 19.0,
+        "angulo": 53.3,
+        "altura": 1.7,
+        "velocidade": 38.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 229,
+        "distancia": 26.2,
+        "angulo": 44.2,
+        "altura": 2.2,
+        "velocidade": 13.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 230,
+        "distancia": 25.6,
+        "angulo": 22.3,
+        "altura": 1.5,
+        "velocidade": 10.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 231,
+        "distancia": 15.3,
+        "angulo": 48.3,
+        "altura": 0.8,
+        "velocidade": 13.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 232,
+        "distancia": 13.4,
+        "angulo": 37.5,
+        "altura": 1.4,
+        "velocidade": 38.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 233,
+        "distancia": 19.9,
+        "angulo": 25.6,
+        "altura": 1.9,
+        "velocidade": 30.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 234,
+        "distancia": 26.2,
+        "angulo": 43.3,
+        "altura": 2.1,
+        "velocidade": 12.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 235,
+        "distancia": 27.3,
+        "angulo": 48.5,
+        "altura": 1.8,
+        "velocidade": 13.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 236,
+        "distancia": 15.6,
+        "angulo": 51.7,
+        "altura": 2.4,
+        "velocidade": 29.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 237,
+        "distancia": 18.0,
+        "angulo": 51.9,
+        "altura": 1.8,
+        "velocidade": 25.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 238,
+        "distancia": 12.6,
+        "angulo": 42.5,
+        "altura": 1.5,
+        "velocidade": 10.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 239,
+        "distancia": 22.8,
+        "angulo": 37.6,
+        "altura": 0.6,
+        "velocidade": 36.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 240,
+        "distancia": 11.7,
+        "angulo": 29.8,
+        "altura": 0.9,
+        "velocidade": 21.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 241,
+        "distancia": 10.0,
+        "angulo": 44.4,
+        "altura": 2.2,
+        "velocidade": 23.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 242,
+        "distancia": 23.1,
+        "angulo": 56.2,
+        "altura": 1.6,
+        "velocidade": 17.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 243,
+        "distancia": 21.0,
+        "angulo": 50.2,
+        "altura": 2.8,
+        "velocidade": 37.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 244,
+        "distancia": 16.2,
+        "angulo": 58.2,
+        "altura": 1.0,
+        "velocidade": 13.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 245,
+        "distancia": 16.4,
+        "angulo": 40.3,
+        "altura": 2.6,
+        "velocidade": 28.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 246,
+        "distancia": 15.0,
+        "angulo": 37.5,
+        "altura": 0.8,
+        "velocidade": 23.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 247,
+        "distancia": 29.4,
+        "angulo": 57.3,
+        "altura": 0.8,
+        "velocidade": 29.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 248,
+        "distancia": 26.3,
+        "angulo": 53.7,
+        "altura": 1.9,
+        "velocidade": 11.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 249,
+        "distancia": 13.0,
+        "angulo": 22.5,
+        "altura": 2.4,
+        "velocidade": 26.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 250,
+        "distancia": 16.1,
+        "angulo": 31.4,
+        "altura": 2.5,
+        "velocidade": 34.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 251,
+        "distancia": 23.1,
+        "angulo": 31.8,
+        "altura": 3.0,
+        "velocidade": 34.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 252,
+        "distancia": 19.4,
+        "angulo": 55.7,
+        "altura": 2.2,
+        "velocidade": 12.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 253,
+        "distancia": 21.8,
+        "angulo": 37.6,
+        "altura": 2.4,
+        "velocidade": 13.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 254,
+        "distancia": 13.4,
+        "angulo": 40.4,
+        "altura": 1.9,
+        "velocidade": 11.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 255,
+        "distancia": 14.7,
+        "angulo": 37.2,
+        "altura": 1.3,
+        "velocidade": 38.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 256,
+        "distancia": 21.3,
+        "angulo": 36.0,
+        "altura": 1.6,
+        "velocidade": 12.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 257,
+        "distancia": 10.1,
+        "angulo": 59.1,
+        "altura": 0.6,
+        "velocidade": 16.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 258,
+        "distancia": 13.9,
+        "angulo": 47.6,
+        "altura": 1.0,
+        "velocidade": 38.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 259,
+        "distancia": 24.8,
+        "angulo": 49.6,
+        "altura": 1.1,
+        "velocidade": 15.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 260,
+        "distancia": 16.6,
+        "angulo": 26.1,
+        "altura": 1.2,
+        "velocidade": 35.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 261,
+        "distancia": 21.5,
+        "angulo": 30.8,
+        "altura": 0.6,
+        "velocidade": 35.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 262,
+        "distancia": 21.5,
+        "angulo": 47.6,
+        "altura": 2.8,
+        "velocidade": 34.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 263,
+        "distancia": 28.0,
+        "angulo": 55.1,
+        "altura": 3.0,
+        "velocidade": 29.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 264,
+        "distancia": 10.7,
+        "angulo": 55.2,
+        "altura": 2.0,
+        "velocidade": 16.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 265,
+        "distancia": 22.5,
+        "angulo": 54.2,
+        "altura": 2.4,
+        "velocidade": 37.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 266,
+        "distancia": 26.9,
+        "angulo": 36.9,
+        "altura": 2.6,
+        "velocidade": 10.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 267,
+        "distancia": 20.3,
+        "angulo": 41.9,
+        "altura": 1.9,
+        "velocidade": 11.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 268,
+        "distancia": 28.5,
+        "angulo": 20.1,
+        "altura": 2.0,
+        "velocidade": 29.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 269,
+        "distancia": 23.0,
+        "angulo": 58.8,
+        "altura": 1.0,
+        "velocidade": 24.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 270,
+        "distancia": 14.6,
+        "angulo": 22.5,
+        "altura": 2.4,
+        "velocidade": 24.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 271,
+        "distancia": 17.6,
+        "angulo": 21.1,
+        "altura": 0.7,
+        "velocidade": 32.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 272,
+        "distancia": 16.6,
+        "angulo": 20.9,
+        "altura": 2.0,
+        "velocidade": 37.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 273,
+        "distancia": 14.0,
+        "angulo": 29.8,
+        "altura": 2.9,
+        "velocidade": 13.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 274,
+        "distancia": 26.2,
+        "angulo": 53.5,
+        "altura": 2.3,
+        "velocidade": 12.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 275,
+        "distancia": 10.1,
+        "angulo": 23.9,
+        "altura": 2.3,
+        "velocidade": 21.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 276,
+        "distancia": 13.9,
+        "angulo": 29.0,
+        "altura": 2.0,
+        "velocidade": 19.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 277,
+        "distancia": 20.7,
+        "angulo": 24.7,
+        "altura": 2.2,
+        "velocidade": 19.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 278,
+        "distancia": 23.7,
+        "angulo": 22.0,
+        "altura": 2.1,
+        "velocidade": 29.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 279,
+        "distancia": 27.5,
+        "angulo": 48.1,
+        "altura": 1.9,
+        "velocidade": 16.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 280,
+        "distancia": 17.6,
+        "angulo": 21.4,
+        "altura": 1.9,
+        "velocidade": 15.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 281,
+        "distancia": 23.7,
+        "angulo": 28.3,
+        "altura": 1.2,
+        "velocidade": 24.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 282,
+        "distancia": 27.4,
+        "angulo": 35.0,
+        "altura": 2.0,
+        "velocidade": 18.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 283,
+        "distancia": 16.6,
+        "angulo": 33.1,
+        "altura": 2.1,
+        "velocidade": 10.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 284,
+        "distancia": 25.7,
+        "angulo": 26.6,
+        "altura": 1.5,
+        "velocidade": 14.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 285,
+        "distancia": 18.2,
+        "angulo": 36.4,
+        "altura": 1.0,
+        "velocidade": 20.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 286,
+        "distancia": 19.3,
+        "angulo": 27.6,
+        "altura": 2.8,
+        "velocidade": 10.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 287,
+        "distancia": 16.3,
+        "angulo": 25.0,
+        "altura": 1.5,
+        "velocidade": 31.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 288,
+        "distancia": 11.3,
+        "angulo": 32.3,
+        "altura": 1.0,
+        "velocidade": 31.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 289,
+        "distancia": 20.7,
+        "angulo": 20.4,
+        "altura": 0.8,
+        "velocidade": 19.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 290,
+        "distancia": 14.9,
+        "angulo": 26.0,
+        "altura": 2.5,
+        "velocidade": 32.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 291,
+        "distancia": 10.4,
+        "angulo": 47.7,
+        "altura": 1.0,
+        "velocidade": 35.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 292,
+        "distancia": 22.1,
+        "angulo": 38.5,
+        "altura": 2.8,
+        "velocidade": 14.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 293,
+        "distancia": 15.0,
+        "angulo": 57.2,
+        "altura": 0.7,
+        "velocidade": 20.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 294,
+        "distancia": 18.6,
+        "angulo": 25.6,
+        "altura": 2.0,
+        "velocidade": 24.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 295,
+        "distancia": 18.5,
+        "angulo": 29.2,
+        "altura": 1.9,
+        "velocidade": 33.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 296,
+        "distancia": 10.4,
+        "angulo": 26.3,
+        "altura": 0.6,
+        "velocidade": 39.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 297,
+        "distancia": 11.6,
+        "angulo": 21.4,
+        "altura": 0.6,
+        "velocidade": 16.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 298,
+        "distancia": 29.0,
+        "angulo": 46.2,
+        "altura": 1.8,
+        "velocidade": 10.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 299,
+        "distancia": 13.4,
+        "angulo": 25.4,
+        "altura": 0.7,
+        "velocidade": 11.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 300,
+        "distancia": 10.7,
+        "angulo": 30.2,
+        "altura": 1.9,
+        "velocidade": 17.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 301,
+        "distancia": 10.2,
+        "angulo": 55.4,
+        "altura": 2.0,
+        "velocidade": 21.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 302,
+        "distancia": 17.1,
+        "angulo": 25.6,
+        "altura": 1.8,
+        "velocidade": 32.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 303,
+        "distancia": 17.6,
+        "angulo": 29.9,
+        "altura": 1.5,
+        "velocidade": 15.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 304,
+        "distancia": 12.0,
+        "angulo": 41.3,
+        "altura": 1.7,
+        "velocidade": 15.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 305,
+        "distancia": 19.4,
+        "angulo": 51.6,
+        "altura": 1.6,
+        "velocidade": 23.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 306,
+        "distancia": 28.4,
+        "angulo": 56.1,
+        "altura": 1.5,
+        "velocidade": 39.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 307,
+        "distancia": 15.7,
+        "angulo": 27.1,
+        "altura": 1.9,
+        "velocidade": 13.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 308,
+        "distancia": 14.9,
+        "angulo": 57.7,
+        "altura": 2.3,
+        "velocidade": 23.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 309,
+        "distancia": 13.6,
+        "angulo": 54.0,
+        "altura": 1.8,
+        "velocidade": 38.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 310,
+        "distancia": 11.4,
+        "angulo": 46.0,
+        "altura": 2.5,
+        "velocidade": 30.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 311,
+        "distancia": 14.4,
+        "angulo": 41.6,
+        "altura": 2.2,
+        "velocidade": 37.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 312,
+        "distancia": 17.3,
+        "angulo": 41.4,
+        "altura": 1.4,
+        "velocidade": 21.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 313,
+        "distancia": 17.3,
+        "angulo": 30.3,
+        "altura": 2.4,
+        "velocidade": 25.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 314,
+        "distancia": 25.6,
+        "angulo": 55.3,
+        "altura": 3.0,
+        "velocidade": 26.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 315,
+        "distancia": 15.5,
+        "angulo": 55.6,
+        "altura": 0.8,
+        "velocidade": 39.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 316,
+        "distancia": 20.1,
+        "angulo": 43.3,
+        "altura": 1.3,
+        "velocidade": 25.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 317,
+        "distancia": 25.0,
+        "angulo": 39.1,
+        "altura": 2.2,
+        "velocidade": 18.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 318,
+        "distancia": 20.7,
+        "angulo": 27.0,
+        "altura": 1.9,
+        "velocidade": 21.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 319,
+        "distancia": 12.5,
+        "angulo": 40.6,
+        "altura": 2.8,
+        "velocidade": 12.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 320,
+        "distancia": 14.6,
+        "angulo": 20.8,
+        "altura": 2.6,
+        "velocidade": 29.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 321,
+        "distancia": 27.1,
+        "angulo": 53.8,
+        "altura": 2.0,
+        "velocidade": 33.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 322,
+        "distancia": 14.9,
+        "angulo": 49.8,
+        "altura": 2.3,
+        "velocidade": 28.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 323,
+        "distancia": 15.1,
+        "angulo": 23.6,
+        "altura": 2.2,
+        "velocidade": 31.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 324,
+        "distancia": 28.5,
+        "angulo": 38.2,
+        "altura": 0.6,
+        "velocidade": 37.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 325,
+        "distancia": 22.8,
+        "angulo": 36.4,
+        "altura": 2.7,
+        "velocidade": 17.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 326,
+        "distancia": 11.4,
+        "angulo": 42.5,
+        "altura": 0.9,
+        "velocidade": 17.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 327,
+        "distancia": 23.9,
+        "angulo": 50.7,
+        "altura": 0.8,
+        "velocidade": 13.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 328,
+        "distancia": 22.8,
+        "angulo": 27.7,
+        "altura": 2.7,
+        "velocidade": 17.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 329,
+        "distancia": 25.2,
+        "angulo": 52.2,
+        "altura": 2.5,
+        "velocidade": 13.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 330,
+        "distancia": 20.6,
+        "angulo": 49.3,
+        "altura": 1.9,
+        "velocidade": 12.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 331,
+        "distancia": 29.1,
+        "angulo": 29.9,
+        "altura": 2.3,
+        "velocidade": 32.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 332,
+        "distancia": 23.0,
+        "angulo": 40.0,
+        "altura": 0.7,
+        "velocidade": 14.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 333,
+        "distancia": 18.1,
+        "angulo": 36.2,
+        "altura": 2.8,
+        "velocidade": 19.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 334,
+        "distancia": 24.2,
+        "angulo": 44.9,
+        "altura": 1.4,
+        "velocidade": 34.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 335,
+        "distancia": 15.7,
+        "angulo": 32.1,
+        "altura": 2.0,
+        "velocidade": 26.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 336,
+        "distancia": 23.2,
+        "angulo": 34.3,
+        "altura": 1.2,
+        "velocidade": 14.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 337,
+        "distancia": 27.9,
+        "angulo": 25.2,
+        "altura": 1.2,
+        "velocidade": 12.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 338,
+        "distancia": 27.4,
+        "angulo": 23.0,
+        "altura": 2.3,
+        "velocidade": 28.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 339,
+        "distancia": 29.3,
+        "angulo": 43.2,
+        "altura": 1.5,
+        "velocidade": 37.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 340,
+        "distancia": 12.5,
+        "angulo": 52.6,
+        "altura": 0.8,
+        "velocidade": 16.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 341,
+        "distancia": 28.4,
+        "angulo": 46.0,
+        "altura": 2.1,
+        "velocidade": 16.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 342,
+        "distancia": 11.7,
+        "angulo": 54.1,
+        "altura": 1.5,
+        "velocidade": 37.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 343,
+        "distancia": 29.9,
+        "angulo": 35.1,
+        "altura": 2.2,
+        "velocidade": 13.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 344,
+        "distancia": 17.3,
+        "angulo": 36.4,
+        "altura": 1.7,
+        "velocidade": 16.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 345,
+        "distancia": 16.1,
+        "angulo": 44.2,
+        "altura": 1.8,
+        "velocidade": 28.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 346,
+        "distancia": 26.7,
+        "angulo": 22.7,
+        "altura": 2.5,
+        "velocidade": 26.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 347,
+        "distancia": 11.0,
+        "angulo": 22.8,
+        "altura": 1.5,
+        "velocidade": 13.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 348,
+        "distancia": 26.6,
+        "angulo": 54.7,
+        "altura": 2.8,
+        "velocidade": 21.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 349,
+        "distancia": 13.9,
+        "angulo": 33.3,
+        "altura": 2.6,
+        "velocidade": 23.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 350,
+        "distancia": 24.9,
+        "angulo": 46.6,
+        "altura": 2.8,
+        "velocidade": 15.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 351,
+        "distancia": 20.1,
+        "angulo": 50.5,
+        "altura": 1.4,
+        "velocidade": 28.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 352,
+        "distancia": 26.3,
+        "angulo": 21.6,
+        "altura": 0.7,
+        "velocidade": 22.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 353,
+        "distancia": 14.8,
+        "angulo": 29.8,
+        "altura": 0.7,
+        "velocidade": 32.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 354,
+        "distancia": 16.8,
+        "angulo": 36.3,
+        "altura": 1.2,
+        "velocidade": 19.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 355,
+        "distancia": 11.6,
+        "angulo": 57.4,
+        "altura": 2.8,
+        "velocidade": 11.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 356,
+        "distancia": 29.2,
+        "angulo": 54.1,
+        "altura": 0.8,
+        "velocidade": 30.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 357,
+        "distancia": 13.5,
+        "angulo": 43.2,
+        "altura": 2.3,
+        "velocidade": 15.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 358,
+        "distancia": 12.4,
+        "angulo": 41.4,
+        "altura": 1.1,
+        "velocidade": 15.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 359,
+        "distancia": 18.5,
+        "angulo": 40.0,
+        "altura": 1.1,
+        "velocidade": 18.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 360,
+        "distancia": 29.2,
+        "angulo": 33.1,
+        "altura": 1.2,
+        "velocidade": 22.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 361,
+        "distancia": 19.4,
+        "angulo": 38.0,
+        "altura": 2.8,
+        "velocidade": 23.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 362,
+        "distancia": 29.5,
+        "angulo": 48.5,
+        "altura": 1.2,
+        "velocidade": 19.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 363,
+        "distancia": 25.0,
+        "angulo": 26.9,
+        "altura": 1.0,
+        "velocidade": 30.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 364,
+        "distancia": 25.8,
+        "angulo": 46.9,
+        "altura": 1.6,
+        "velocidade": 33.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 365,
+        "distancia": 24.3,
+        "angulo": 25.1,
+        "altura": 1.9,
+        "velocidade": 36.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 366,
+        "distancia": 10.4,
+        "angulo": 54.9,
+        "altura": 1.5,
+        "velocidade": 36.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 367,
+        "distancia": 21.8,
+        "angulo": 37.4,
+        "altura": 1.6,
+        "velocidade": 23.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 368,
+        "distancia": 28.0,
+        "angulo": 51.3,
+        "altura": 2.6,
+        "velocidade": 11.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 369,
+        "distancia": 24.3,
+        "angulo": 29.1,
+        "altura": 2.0,
+        "velocidade": 30.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 370,
+        "distancia": 17.0,
+        "angulo": 28.9,
+        "altura": 2.1,
+        "velocidade": 36.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 371,
+        "distancia": 28.0,
+        "angulo": 24.3,
+        "altura": 1.3,
+        "velocidade": 29.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 372,
+        "distancia": 20.1,
+        "angulo": 48.4,
+        "altura": 1.0,
+        "velocidade": 21.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 373,
+        "distancia": 16.6,
+        "angulo": 25.3,
+        "altura": 2.7,
+        "velocidade": 35.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 374,
+        "distancia": 19.8,
+        "angulo": 47.8,
+        "altura": 0.7,
+        "velocidade": 15.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 375,
+        "distancia": 10.9,
+        "angulo": 36.8,
+        "altura": 0.7,
+        "velocidade": 15.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 376,
+        "distancia": 11.7,
+        "angulo": 59.4,
+        "altura": 1.2,
+        "velocidade": 24.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 377,
+        "distancia": 14.5,
+        "angulo": 24.0,
+        "altura": 1.9,
+        "velocidade": 10.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 378,
+        "distancia": 19.5,
+        "angulo": 22.3,
+        "altura": 2.2,
+        "velocidade": 33.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 379,
+        "distancia": 20.2,
+        "angulo": 44.0,
+        "altura": 0.8,
+        "velocidade": 25.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 380,
+        "distancia": 25.9,
+        "angulo": 28.6,
+        "altura": 1.8,
+        "velocidade": 30.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 381,
+        "distancia": 27.3,
+        "angulo": 25.7,
+        "altura": 1.4,
+        "velocidade": 18.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 382,
+        "distancia": 21.2,
+        "angulo": 58.7,
+        "altura": 0.9,
+        "velocidade": 32.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 383,
+        "distancia": 24.0,
+        "angulo": 38.4,
+        "altura": 0.8,
+        "velocidade": 16.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 384,
+        "distancia": 18.5,
+        "angulo": 23.6,
+        "altura": 1.0,
+        "velocidade": 38.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 385,
+        "distancia": 12.6,
+        "angulo": 43.3,
+        "altura": 2.0,
+        "velocidade": 20.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 386,
+        "distancia": 11.2,
+        "angulo": 45.3,
+        "altura": 2.2,
+        "velocidade": 25.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 387,
+        "distancia": 22.6,
+        "angulo": 30.0,
+        "altura": 1.7,
+        "velocidade": 36.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 388,
+        "distancia": 12.4,
+        "angulo": 20.2,
+        "altura": 0.8,
+        "velocidade": 22.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 389,
+        "distancia": 14.4,
+        "angulo": 41.3,
+        "altura": 1.2,
+        "velocidade": 30.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 390,
+        "distancia": 28.8,
+        "angulo": 33.3,
+        "altura": 1.0,
+        "velocidade": 15.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 391,
+        "distancia": 24.3,
+        "angulo": 53.1,
+        "altura": 2.5,
+        "velocidade": 29.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 392,
+        "distancia": 18.1,
+        "angulo": 21.1,
+        "altura": 1.3,
+        "velocidade": 38.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 393,
+        "distancia": 26.7,
+        "angulo": 42.1,
+        "altura": 1.7,
+        "velocidade": 16.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 394,
+        "distancia": 20.4,
+        "angulo": 34.2,
+        "altura": 2.0,
+        "velocidade": 10.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 395,
+        "distancia": 27.9,
+        "angulo": 33.1,
+        "altura": 1.1,
+        "velocidade": 26.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 396,
+        "distancia": 13.2,
+        "angulo": 43.9,
+        "altura": 2.7,
+        "velocidade": 14.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 397,
+        "distancia": 14.5,
+        "angulo": 28.6,
+        "altura": 2.2,
+        "velocidade": 34.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 398,
+        "distancia": 13.9,
+        "angulo": 43.8,
+        "altura": 1.1,
+        "velocidade": 16.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 399,
+        "distancia": 21.6,
+        "angulo": 22.6,
+        "altura": 2.4,
+        "velocidade": 35.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 400,
+        "distancia": 19.3,
+        "angulo": 33.9,
+        "altura": 1.5,
+        "velocidade": 31.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 401,
+        "distancia": 15.9,
+        "angulo": 55.3,
+        "altura": 2.0,
+        "velocidade": 21.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 402,
+        "distancia": 16.3,
+        "angulo": 42.5,
+        "altura": 2.0,
+        "velocidade": 28.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 403,
+        "distancia": 28.3,
+        "angulo": 52.6,
+        "altura": 2.4,
+        "velocidade": 20.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 404,
+        "distancia": 21.8,
+        "angulo": 22.1,
+        "altura": 1.3,
+        "velocidade": 14.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 405,
+        "distancia": 10.8,
+        "angulo": 49.9,
+        "altura": 1.6,
+        "velocidade": 13.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 406,
+        "distancia": 25.7,
+        "angulo": 35.1,
+        "altura": 2.9,
+        "velocidade": 14.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 407,
+        "distancia": 23.5,
+        "angulo": 46.0,
+        "altura": 2.3,
+        "velocidade": 15.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 408,
+        "distancia": 29.7,
+        "angulo": 30.3,
+        "altura": 2.6,
+        "velocidade": 30.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 409,
+        "distancia": 12.7,
+        "angulo": 37.3,
+        "altura": 2.5,
+        "velocidade": 29.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 410,
+        "distancia": 29.6,
+        "angulo": 32.5,
+        "altura": 1.3,
+        "velocidade": 31.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 411,
+        "distancia": 17.6,
+        "angulo": 41.1,
+        "altura": 2.9,
+        "velocidade": 18.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 412,
+        "distancia": 18.1,
+        "angulo": 35.9,
+        "altura": 1.0,
+        "velocidade": 29.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 413,
+        "distancia": 18.7,
+        "angulo": 23.9,
+        "altura": 2.1,
+        "velocidade": 29.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 414,
+        "distancia": 16.6,
+        "angulo": 53.7,
+        "altura": 1.7,
+        "velocidade": 33.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 415,
+        "distancia": 24.5,
+        "angulo": 51.9,
+        "altura": 1.9,
+        "velocidade": 19.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 416,
+        "distancia": 24.1,
+        "angulo": 44.4,
+        "altura": 1.8,
+        "velocidade": 36.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 417,
+        "distancia": 13.9,
+        "angulo": 27.3,
+        "altura": 2.0,
+        "velocidade": 25.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 418,
+        "distancia": 17.8,
+        "angulo": 51.2,
+        "altura": 2.1,
+        "velocidade": 22.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 419,
+        "distancia": 30.0,
+        "angulo": 28.2,
+        "altura": 0.7,
+        "velocidade": 20.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 420,
+        "distancia": 10.8,
+        "angulo": 52.7,
+        "altura": 1.7,
+        "velocidade": 17.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 421,
+        "distancia": 18.6,
+        "angulo": 43.1,
+        "altura": 2.6,
+        "velocidade": 25.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 422,
+        "distancia": 20.1,
+        "angulo": 58.4,
+        "altura": 2.2,
+        "velocidade": 31.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 423,
+        "distancia": 12.1,
+        "angulo": 24.7,
+        "altura": 1.8,
+        "velocidade": 14.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 424,
+        "distancia": 24.2,
+        "angulo": 59.0,
+        "altura": 1.1,
+        "velocidade": 24.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 425,
+        "distancia": 12.4,
+        "angulo": 56.0,
+        "altura": 0.7,
+        "velocidade": 37.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 426,
+        "distancia": 24.8,
+        "angulo": 38.6,
+        "altura": 2.7,
+        "velocidade": 13.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 427,
+        "distancia": 10.5,
+        "angulo": 54.3,
+        "altura": 2.6,
+        "velocidade": 17.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 428,
+        "distancia": 23.2,
+        "angulo": 54.7,
+        "altura": 2.0,
+        "velocidade": 19.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 429,
+        "distancia": 26.4,
+        "angulo": 56.0,
+        "altura": 2.8,
+        "velocidade": 30.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 430,
+        "distancia": 29.0,
+        "angulo": 34.6,
+        "altura": 2.5,
+        "velocidade": 11.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 431,
+        "distancia": 27.7,
+        "angulo": 23.6,
+        "altura": 2.5,
+        "velocidade": 32.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 432,
+        "distancia": 27.5,
+        "angulo": 24.8,
+        "altura": 1.4,
+        "velocidade": 24.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 433,
+        "distancia": 19.4,
+        "angulo": 46.4,
+        "altura": 2.2,
+        "velocidade": 23.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 434,
+        "distancia": 11.2,
+        "angulo": 55.5,
+        "altura": 0.9,
+        "velocidade": 16.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 435,
+        "distancia": 14.4,
+        "angulo": 20.6,
+        "altura": 0.8,
+        "velocidade": 16.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 436,
+        "distancia": 22.9,
+        "angulo": 43.5,
+        "altura": 0.9,
+        "velocidade": 25.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 437,
+        "distancia": 17.8,
+        "angulo": 28.4,
+        "altura": 1.6,
+        "velocidade": 10.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 438,
+        "distancia": 17.7,
+        "angulo": 50.4,
+        "altura": 1.0,
+        "velocidade": 30.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 439,
+        "distancia": 20.1,
+        "angulo": 45.9,
+        "altura": 1.4,
+        "velocidade": 22.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 440,
+        "distancia": 13.5,
+        "angulo": 35.3,
+        "altura": 3.0,
+        "velocidade": 19.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 441,
+        "distancia": 20.1,
+        "angulo": 55.1,
+        "altura": 1.6,
+        "velocidade": 38.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 442,
+        "distancia": 16.7,
+        "angulo": 44.5,
+        "altura": 2.4,
+        "velocidade": 20.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 443,
+        "distancia": 22.1,
+        "angulo": 48.5,
+        "altura": 2.6,
+        "velocidade": 18.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 444,
+        "distancia": 17.1,
+        "angulo": 47.3,
+        "altura": 0.6,
+        "velocidade": 18.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 445,
+        "distancia": 22.5,
+        "angulo": 39.0,
+        "altura": 1.6,
+        "velocidade": 34.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 446,
+        "distancia": 27.0,
+        "angulo": 54.8,
+        "altura": 1.6,
+        "velocidade": 27.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 447,
+        "distancia": 25.3,
+        "angulo": 31.7,
+        "altura": 2.8,
+        "velocidade": 33.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 448,
+        "distancia": 15.2,
+        "angulo": 34.5,
+        "altura": 1.7,
+        "velocidade": 10.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 449,
+        "distancia": 25.5,
+        "angulo": 34.2,
+        "altura": 0.9,
+        "velocidade": 11.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 450,
+        "distancia": 18.3,
+        "angulo": 53.2,
+        "altura": 2.1,
+        "velocidade": 39.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 451,
+        "distancia": 28.9,
+        "angulo": 53.8,
+        "altura": 2.5,
+        "velocidade": 31.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 452,
+        "distancia": 24.3,
+        "angulo": 46.5,
+        "altura": 2.1,
+        "velocidade": 36.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 453,
+        "distancia": 11.3,
+        "angulo": 33.8,
+        "altura": 1.0,
+        "velocidade": 29.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 454,
+        "distancia": 14.3,
+        "angulo": 22.7,
+        "altura": 2.6,
+        "velocidade": 21.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 455,
+        "distancia": 11.0,
+        "angulo": 25.4,
+        "altura": 2.6,
+        "velocidade": 18.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 456,
+        "distancia": 10.1,
+        "angulo": 40.9,
+        "altura": 2.3,
+        "velocidade": 36.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 457,
+        "distancia": 21.6,
+        "angulo": 26.5,
+        "altura": 2.1,
+        "velocidade": 27.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 458,
+        "distancia": 25.5,
+        "angulo": 37.8,
+        "altura": 2.3,
+        "velocidade": 14.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 459,
+        "distancia": 12.8,
+        "angulo": 22.1,
+        "altura": 1.4,
+        "velocidade": 28.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 460,
+        "distancia": 29.9,
+        "angulo": 44.3,
+        "altura": 0.7,
+        "velocidade": 30.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 461,
+        "distancia": 27.2,
+        "angulo": 26.8,
+        "altura": 2.7,
+        "velocidade": 18.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 462,
+        "distancia": 23.5,
+        "angulo": 33.2,
+        "altura": 2.1,
+        "velocidade": 34.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 463,
+        "distancia": 21.9,
+        "angulo": 55.6,
+        "altura": 0.9,
+        "velocidade": 22.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 464,
+        "distancia": 18.5,
+        "angulo": 47.2,
+        "altura": 2.3,
+        "velocidade": 22.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 465,
+        "distancia": 19.0,
+        "angulo": 29.4,
+        "altura": 2.3,
+        "velocidade": 34.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 466,
+        "distancia": 15.2,
+        "angulo": 31.4,
+        "altura": 1.6,
+        "velocidade": 14.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 467,
+        "distancia": 18.0,
+        "angulo": 51.0,
+        "altura": 0.8,
+        "velocidade": 31.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 468,
+        "distancia": 24.5,
+        "angulo": 57.6,
+        "altura": 1.7,
+        "velocidade": 16.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 469,
+        "distancia": 24.9,
+        "angulo": 32.7,
+        "altura": 1.9,
+        "velocidade": 15.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 470,
+        "distancia": 11.7,
+        "angulo": 30.7,
+        "altura": 2.9,
+        "velocidade": 16.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 471,
+        "distancia": 18.7,
+        "angulo": 48.0,
+        "altura": 1.1,
+        "velocidade": 19.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 472,
+        "distancia": 27.6,
+        "angulo": 55.5,
+        "altura": 0.8,
+        "velocidade": 39.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 473,
+        "distancia": 22.8,
+        "angulo": 32.2,
+        "altura": 1.7,
+        "velocidade": 32.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 474,
+        "distancia": 22.1,
+        "angulo": 57.2,
+        "altura": 0.9,
+        "velocidade": 33.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 475,
+        "distancia": 16.0,
+        "angulo": 33.0,
+        "altura": 1.3,
+        "velocidade": 18.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 476,
+        "distancia": 21.1,
+        "angulo": 21.5,
+        "altura": 1.6,
+        "velocidade": 29.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 477,
+        "distancia": 10.3,
+        "angulo": 20.1,
+        "altura": 1.3,
+        "velocidade": 23.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 478,
+        "distancia": 28.1,
+        "angulo": 28.2,
+        "altura": 1.0,
+        "velocidade": 26.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 479,
+        "distancia": 13.7,
+        "angulo": 47.2,
+        "altura": 1.0,
+        "velocidade": 30.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 480,
+        "distancia": 11.3,
+        "angulo": 23.2,
+        "altura": 2.9,
+        "velocidade": 28.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 481,
+        "distancia": 22.3,
+        "angulo": 34.5,
+        "altura": 1.8,
+        "velocidade": 23.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 482,
+        "distancia": 10.5,
+        "angulo": 46.1,
+        "altura": 1.5,
+        "velocidade": 32.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 483,
+        "distancia": 22.2,
+        "angulo": 36.9,
+        "altura": 2.9,
+        "velocidade": 12.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 484,
+        "distancia": 28.3,
+        "angulo": 23.2,
+        "altura": 1.3,
+        "velocidade": 33.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 485,
+        "distancia": 21.8,
+        "angulo": 50.4,
+        "altura": 0.9,
+        "velocidade": 33.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 486,
+        "distancia": 23.5,
+        "angulo": 28.6,
+        "altura": 0.7,
+        "velocidade": 16.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 487,
+        "distancia": 29.7,
+        "angulo": 23.9,
+        "altura": 2.1,
+        "velocidade": 36.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 488,
+        "distancia": 28.9,
+        "angulo": 30.3,
+        "altura": 1.7,
+        "velocidade": 25.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 489,
+        "distancia": 13.5,
+        "angulo": 52.6,
+        "altura": 2.5,
+        "velocidade": 20.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 490,
+        "distancia": 11.1,
+        "angulo": 58.9,
+        "altura": 3.0,
+        "velocidade": 35.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 491,
+        "distancia": 14.0,
+        "angulo": 49.9,
+        "altura": 0.8,
+        "velocidade": 25.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 492,
+        "distancia": 13.9,
+        "angulo": 51.2,
+        "altura": 0.6,
+        "velocidade": 33.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 493,
+        "distancia": 18.3,
+        "angulo": 24.0,
+        "altura": 2.5,
+        "velocidade": 35.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 494,
+        "distancia": 13.3,
+        "angulo": 59.5,
+        "altura": 2.8,
+        "velocidade": 10.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 495,
+        "distancia": 18.1,
+        "angulo": 36.4,
+        "altura": 1.6,
+        "velocidade": 21.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 496,
+        "distancia": 20.2,
+        "angulo": 36.4,
+        "altura": 2.2,
+        "velocidade": 29.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 497,
+        "distancia": 29.6,
+        "angulo": 24.1,
+        "altura": 2.3,
+        "velocidade": 13.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 498,
+        "distancia": 15.2,
+        "angulo": 58.2,
+        "altura": 2.7,
+        "velocidade": 39.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 499,
+        "distancia": 15.7,
+        "angulo": 26.5,
+        "altura": 2.5,
+        "velocidade": 13.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 500,
+        "distancia": 14.5,
+        "angulo": 31.7,
+        "altura": 2.5,
+        "velocidade": 36.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 501,
+        "distancia": 15.2,
+        "angulo": 42.6,
+        "altura": 2.1,
+        "velocidade": 30.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 502,
+        "distancia": 14.2,
+        "angulo": 20.5,
+        "altura": 1.3,
+        "velocidade": 23.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 503,
+        "distancia": 17.3,
+        "angulo": 32.3,
+        "altura": 2.6,
+        "velocidade": 36.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 504,
+        "distancia": 16.8,
+        "angulo": 31.1,
+        "altura": 3.0,
+        "velocidade": 30.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 505,
+        "distancia": 17.2,
+        "angulo": 21.7,
+        "altura": 0.7,
+        "velocidade": 35.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 506,
+        "distancia": 24.3,
+        "angulo": 35.6,
+        "altura": 2.4,
+        "velocidade": 18.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 507,
+        "distancia": 11.4,
+        "angulo": 30.8,
+        "altura": 1.4,
+        "velocidade": 33.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 508,
+        "distancia": 23.1,
+        "angulo": 33.1,
+        "altura": 2.3,
+        "velocidade": 17.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 509,
+        "distancia": 11.6,
+        "angulo": 32.8,
+        "altura": 1.1,
+        "velocidade": 32.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 510,
+        "distancia": 21.1,
+        "angulo": 31.6,
+        "altura": 1.6,
+        "velocidade": 22.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 511,
+        "distancia": 14.6,
+        "angulo": 59.7,
+        "altura": 1.1,
+        "velocidade": 27.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 512,
+        "distancia": 12.8,
+        "angulo": 47.9,
+        "altura": 2.9,
+        "velocidade": 17.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 513,
+        "distancia": 15.7,
+        "angulo": 22.6,
+        "altura": 2.1,
+        "velocidade": 31.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 514,
+        "distancia": 27.4,
+        "angulo": 33.0,
+        "altura": 0.9,
+        "velocidade": 25.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 515,
+        "distancia": 30.0,
+        "angulo": 30.0,
+        "altura": 1.4,
+        "velocidade": 14.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 516,
+        "distancia": 11.8,
+        "angulo": 40.2,
+        "altura": 1.3,
+        "velocidade": 37.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 517,
+        "distancia": 25.6,
+        "angulo": 30.7,
+        "altura": 0.9,
+        "velocidade": 20.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 518,
+        "distancia": 12.7,
+        "angulo": 43.7,
+        "altura": 1.7,
+        "velocidade": 26.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 519,
+        "distancia": 26.8,
+        "angulo": 36.1,
+        "altura": 1.6,
+        "velocidade": 22.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 520,
+        "distancia": 21.3,
+        "angulo": 58.6,
+        "altura": 2.7,
+        "velocidade": 26.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 521,
+        "distancia": 23.3,
+        "angulo": 27.3,
+        "altura": 2.2,
+        "velocidade": 29.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 522,
+        "distancia": 11.4,
+        "angulo": 26.4,
+        "altura": 1.7,
+        "velocidade": 37.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 523,
+        "distancia": 13.7,
+        "angulo": 39.8,
+        "altura": 2.8,
+        "velocidade": 25.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 524,
+        "distancia": 19.8,
+        "angulo": 27.5,
+        "altura": 0.8,
+        "velocidade": 30.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 525,
+        "distancia": 28.9,
+        "angulo": 44.9,
+        "altura": 0.7,
+        "velocidade": 25.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 526,
+        "distancia": 29.6,
+        "angulo": 40.6,
+        "altura": 2.2,
+        "velocidade": 11.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 527,
+        "distancia": 10.7,
+        "angulo": 43.5,
+        "altura": 1.1,
+        "velocidade": 19.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 528,
+        "distancia": 24.0,
+        "angulo": 23.1,
+        "altura": 1.1,
+        "velocidade": 11.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 529,
+        "distancia": 29.2,
+        "angulo": 45.0,
+        "altura": 1.7,
+        "velocidade": 11.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 530,
+        "distancia": 25.4,
+        "angulo": 34.3,
+        "altura": 0.8,
+        "velocidade": 21.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 531,
+        "distancia": 19.0,
+        "angulo": 34.7,
+        "altura": 2.3,
+        "velocidade": 39.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 532,
+        "distancia": 17.8,
+        "angulo": 40.8,
+        "altura": 1.1,
+        "velocidade": 37.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 533,
+        "distancia": 20.9,
+        "angulo": 42.6,
+        "altura": 2.0,
+        "velocidade": 13.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 534,
+        "distancia": 17.8,
+        "angulo": 31.5,
+        "altura": 0.9,
+        "velocidade": 37.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 535,
+        "distancia": 11.1,
+        "angulo": 24.8,
+        "altura": 1.4,
+        "velocidade": 25.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 536,
+        "distancia": 26.2,
+        "angulo": 60.0,
+        "altura": 1.1,
+        "velocidade": 26.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 537,
+        "distancia": 26.1,
+        "angulo": 52.3,
+        "altura": 2.4,
+        "velocidade": 27.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 538,
+        "distancia": 10.2,
+        "angulo": 33.0,
+        "altura": 1.0,
+        "velocidade": 31.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 539,
+        "distancia": 10.4,
+        "angulo": 42.2,
+        "altura": 1.0,
+        "velocidade": 13.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 540,
+        "distancia": 17.6,
+        "angulo": 26.1,
+        "altura": 2.1,
+        "velocidade": 15.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 541,
+        "distancia": 16.8,
+        "angulo": 43.0,
+        "altura": 2.3,
+        "velocidade": 22.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 542,
+        "distancia": 28.7,
+        "angulo": 59.8,
+        "altura": 2.1,
+        "velocidade": 28.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 543,
+        "distancia": 28.1,
+        "angulo": 29.7,
+        "altura": 1.2,
+        "velocidade": 24.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 544,
+        "distancia": 11.1,
+        "angulo": 34.0,
+        "altura": 1.8,
+        "velocidade": 38.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 545,
+        "distancia": 29.0,
+        "angulo": 41.4,
+        "altura": 1.0,
+        "velocidade": 22.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 546,
+        "distancia": 16.3,
+        "angulo": 26.2,
+        "altura": 1.4,
+        "velocidade": 29.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 547,
+        "distancia": 26.6,
+        "angulo": 55.3,
+        "altura": 1.9,
+        "velocidade": 22.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 548,
+        "distancia": 22.7,
+        "angulo": 39.6,
+        "altura": 2.8,
+        "velocidade": 16.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 549,
+        "distancia": 25.2,
+        "angulo": 51.5,
+        "altura": 2.0,
+        "velocidade": 38.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 550,
+        "distancia": 14.1,
+        "angulo": 50.9,
+        "altura": 3.0,
+        "velocidade": 25.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 551,
+        "distancia": 24.3,
+        "angulo": 44.6,
+        "altura": 1.1,
+        "velocidade": 39.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 552,
+        "distancia": 28.9,
+        "angulo": 25.4,
+        "altura": 2.9,
+        "velocidade": 21.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 553,
+        "distancia": 12.2,
+        "angulo": 51.9,
+        "altura": 1.5,
+        "velocidade": 29.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 554,
+        "distancia": 25.5,
+        "angulo": 59.9,
+        "altura": 1.1,
+        "velocidade": 25.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 555,
+        "distancia": 25.9,
+        "angulo": 31.2,
+        "altura": 2.2,
+        "velocidade": 29.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 556,
+        "distancia": 25.6,
+        "angulo": 23.6,
+        "altura": 1.7,
+        "velocidade": 32.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 557,
+        "distancia": 24.2,
+        "angulo": 31.2,
+        "altura": 2.0,
+        "velocidade": 32.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 558,
+        "distancia": 27.4,
+        "angulo": 35.1,
+        "altura": 2.9,
+        "velocidade": 29.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 559,
+        "distancia": 19.5,
+        "angulo": 58.6,
+        "altura": 2.8,
+        "velocidade": 15.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 560,
+        "distancia": 22.9,
+        "angulo": 49.2,
+        "altura": 2.0,
+        "velocidade": 12.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 561,
+        "distancia": 23.1,
+        "angulo": 21.1,
+        "altura": 1.6,
+        "velocidade": 22.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 562,
+        "distancia": 29.9,
+        "angulo": 27.1,
+        "altura": 2.1,
+        "velocidade": 11.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 563,
+        "distancia": 30.0,
+        "angulo": 44.7,
+        "altura": 0.7,
+        "velocidade": 20.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 564,
+        "distancia": 20.4,
+        "angulo": 55.9,
+        "altura": 1.1,
+        "velocidade": 23.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 565,
+        "distancia": 11.0,
+        "angulo": 46.9,
+        "altura": 2.8,
+        "velocidade": 39.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 566,
+        "distancia": 26.8,
+        "angulo": 28.9,
+        "altura": 1.0,
+        "velocidade": 36.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 567,
+        "distancia": 22.9,
+        "angulo": 42.0,
+        "altura": 1.9,
+        "velocidade": 11.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 568,
+        "distancia": 23.9,
+        "angulo": 51.3,
+        "altura": 1.7,
+        "velocidade": 30.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 569,
+        "distancia": 20.0,
+        "angulo": 46.2,
+        "altura": 2.4,
+        "velocidade": 25.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 570,
+        "distancia": 14.9,
+        "angulo": 47.2,
+        "altura": 1.1,
+        "velocidade": 13.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 571,
+        "distancia": 10.6,
+        "angulo": 22.6,
+        "altura": 1.1,
+        "velocidade": 37.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 572,
+        "distancia": 26.8,
+        "angulo": 44.9,
+        "altura": 2.2,
+        "velocidade": 14.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 573,
+        "distancia": 20.7,
+        "angulo": 41.2,
+        "altura": 2.2,
+        "velocidade": 16.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 574,
+        "distancia": 21.2,
+        "angulo": 41.5,
+        "altura": 0.9,
+        "velocidade": 33.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 575,
+        "distancia": 21.7,
+        "angulo": 44.8,
+        "altura": 2.8,
+        "velocidade": 25.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 576,
+        "distancia": 12.6,
+        "angulo": 59.1,
+        "altura": 2.0,
+        "velocidade": 29.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 577,
+        "distancia": 14.1,
+        "angulo": 35.2,
+        "altura": 2.3,
+        "velocidade": 12.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 578,
+        "distancia": 20.0,
+        "angulo": 46.7,
+        "altura": 1.0,
+        "velocidade": 18.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 579,
+        "distancia": 17.1,
+        "angulo": 39.2,
+        "altura": 2.9,
+        "velocidade": 16.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 580,
+        "distancia": 26.8,
+        "angulo": 49.9,
+        "altura": 2.0,
+        "velocidade": 16.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 581,
+        "distancia": 18.8,
+        "angulo": 31.5,
+        "altura": 1.5,
+        "velocidade": 38.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 582,
+        "distancia": 12.5,
+        "angulo": 45.8,
+        "altura": 1.5,
+        "velocidade": 36.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 583,
+        "distancia": 23.9,
+        "angulo": 49.7,
+        "altura": 2.3,
+        "velocidade": 39.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 584,
+        "distancia": 12.8,
+        "angulo": 54.8,
+        "altura": 0.8,
+        "velocidade": 30.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 585,
+        "distancia": 28.0,
+        "angulo": 36.4,
+        "altura": 1.0,
+        "velocidade": 10.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 586,
+        "distancia": 17.4,
+        "angulo": 23.1,
+        "altura": 0.5,
+        "velocidade": 13.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 587,
+        "distancia": 19.7,
+        "angulo": 58.4,
+        "altura": 3.0,
+        "velocidade": 26.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 588,
+        "distancia": 20.8,
+        "angulo": 49.4,
+        "altura": 2.4,
+        "velocidade": 15.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 589,
+        "distancia": 19.0,
+        "angulo": 28.9,
+        "altura": 2.4,
+        "velocidade": 16.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 590,
+        "distancia": 28.6,
+        "angulo": 40.1,
+        "altura": 2.6,
+        "velocidade": 15.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 591,
+        "distancia": 28.3,
+        "angulo": 52.2,
+        "altura": 1.6,
+        "velocidade": 36.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 592,
+        "distancia": 12.8,
+        "angulo": 25.8,
+        "altura": 1.0,
+        "velocidade": 24.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 593,
+        "distancia": 20.4,
+        "angulo": 25.3,
+        "altura": 0.7,
+        "velocidade": 35.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 594,
+        "distancia": 10.0,
+        "angulo": 32.4,
+        "altura": 1.6,
+        "velocidade": 30.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 595,
+        "distancia": 11.5,
+        "angulo": 45.0,
+        "altura": 1.0,
+        "velocidade": 19.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 596,
+        "distancia": 26.7,
+        "angulo": 59.5,
+        "altura": 1.4,
+        "velocidade": 10.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 597,
+        "distancia": 22.6,
+        "angulo": 24.1,
+        "altura": 1.3,
+        "velocidade": 21.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 598,
+        "distancia": 13.4,
+        "angulo": 29.4,
+        "altura": 0.5,
+        "velocidade": 33.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 599,
+        "distancia": 27.7,
+        "angulo": 36.7,
+        "altura": 2.4,
+        "velocidade": 33.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 600,
+        "distancia": 29.7,
+        "angulo": 48.5,
+        "altura": 0.9,
+        "velocidade": 37.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 601,
+        "distancia": 12.0,
+        "angulo": 37.5,
+        "altura": 0.8,
+        "velocidade": 17.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 602,
+        "distancia": 14.1,
+        "angulo": 45.2,
+        "altura": 1.5,
+        "velocidade": 28.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 603,
+        "distancia": 17.7,
+        "angulo": 29.9,
+        "altura": 2.7,
+        "velocidade": 10.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 604,
+        "distancia": 12.8,
+        "angulo": 37.7,
+        "altura": 1.4,
+        "velocidade": 14.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 605,
+        "distancia": 21.1,
+        "angulo": 49.2,
+        "altura": 0.6,
+        "velocidade": 17.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 606,
+        "distancia": 19.9,
+        "angulo": 32.1,
+        "altura": 1.0,
+        "velocidade": 21.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 607,
+        "distancia": 24.3,
+        "angulo": 30.4,
+        "altura": 1.6,
+        "velocidade": 10.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 608,
+        "distancia": 13.4,
+        "angulo": 42.6,
+        "altura": 1.2,
+        "velocidade": 16.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 609,
+        "distancia": 19.6,
+        "angulo": 60.0,
+        "altura": 2.4,
+        "velocidade": 34.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 610,
+        "distancia": 11.8,
+        "angulo": 27.3,
+        "altura": 1.9,
+        "velocidade": 35.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 611,
+        "distancia": 22.9,
+        "angulo": 31.3,
+        "altura": 2.5,
+        "velocidade": 30.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 612,
+        "distancia": 11.7,
+        "angulo": 58.5,
+        "altura": 1.1,
+        "velocidade": 21.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 613,
+        "distancia": 16.0,
+        "angulo": 36.5,
+        "altura": 0.9,
+        "velocidade": 36.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 614,
+        "distancia": 26.1,
+        "angulo": 45.5,
+        "altura": 0.7,
+        "velocidade": 37.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 615,
+        "distancia": 19.2,
+        "angulo": 33.6,
+        "altura": 2.4,
+        "velocidade": 27.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 616,
+        "distancia": 25.0,
+        "angulo": 59.8,
+        "altura": 2.0,
+        "velocidade": 38.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 617,
+        "distancia": 11.5,
+        "angulo": 49.8,
+        "altura": 2.4,
+        "velocidade": 22.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 618,
+        "distancia": 11.3,
+        "angulo": 49.0,
+        "altura": 2.9,
+        "velocidade": 10.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 619,
+        "distancia": 28.3,
+        "angulo": 23.6,
+        "altura": 2.0,
+        "velocidade": 39.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 620,
+        "distancia": 12.0,
+        "angulo": 31.0,
+        "altura": 0.5,
+        "velocidade": 35.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 621,
+        "distancia": 27.5,
+        "angulo": 52.7,
+        "altura": 0.9,
+        "velocidade": 13.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 622,
+        "distancia": 25.3,
+        "angulo": 23.2,
+        "altura": 2.7,
+        "velocidade": 26.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 623,
+        "distancia": 25.3,
+        "angulo": 58.6,
+        "altura": 2.7,
+        "velocidade": 12.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 624,
+        "distancia": 16.4,
+        "angulo": 45.5,
+        "altura": 2.7,
+        "velocidade": 34.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 625,
+        "distancia": 29.6,
+        "angulo": 21.9,
+        "altura": 2.9,
+        "velocidade": 26.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 626,
+        "distancia": 13.4,
+        "angulo": 24.5,
+        "altura": 0.6,
+        "velocidade": 39.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 627,
+        "distancia": 18.9,
+        "angulo": 45.4,
+        "altura": 0.9,
+        "velocidade": 17.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 628,
+        "distancia": 26.1,
+        "angulo": 31.7,
+        "altura": 2.5,
+        "velocidade": 28.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 629,
+        "distancia": 25.1,
+        "angulo": 43.2,
+        "altura": 1.9,
+        "velocidade": 15.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 630,
+        "distancia": 15.0,
+        "angulo": 24.3,
+        "altura": 2.7,
+        "velocidade": 24.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 631,
+        "distancia": 24.2,
+        "angulo": 51.2,
+        "altura": 0.5,
+        "velocidade": 16.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 632,
+        "distancia": 21.2,
+        "angulo": 52.1,
+        "altura": 1.2,
+        "velocidade": 13.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 633,
+        "distancia": 22.9,
+        "angulo": 47.6,
+        "altura": 1.3,
+        "velocidade": 36.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 634,
+        "distancia": 26.1,
+        "angulo": 23.7,
+        "altura": 0.5,
+        "velocidade": 15.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 635,
+        "distancia": 25.0,
+        "angulo": 45.9,
+        "altura": 2.9,
+        "velocidade": 30.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 636,
+        "distancia": 24.9,
+        "angulo": 57.2,
+        "altura": 1.1,
+        "velocidade": 10.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 637,
+        "distancia": 10.2,
+        "angulo": 20.8,
+        "altura": 2.0,
+        "velocidade": 24.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 638,
+        "distancia": 27.9,
+        "angulo": 55.7,
+        "altura": 0.9,
+        "velocidade": 15.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 639,
+        "distancia": 28.3,
+        "angulo": 37.8,
+        "altura": 2.4,
+        "velocidade": 22.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 640,
+        "distancia": 21.0,
+        "angulo": 21.1,
+        "altura": 2.5,
+        "velocidade": 34.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 641,
+        "distancia": 27.6,
+        "angulo": 33.8,
+        "altura": 2.4,
+        "velocidade": 17.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 642,
+        "distancia": 25.4,
+        "angulo": 55.5,
+        "altura": 0.5,
+        "velocidade": 36.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 643,
+        "distancia": 15.8,
+        "angulo": 36.8,
+        "altura": 2.0,
+        "velocidade": 29.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 644,
+        "distancia": 26.0,
+        "angulo": 48.2,
+        "altura": 1.3,
+        "velocidade": 26.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 645,
+        "distancia": 12.3,
+        "angulo": 57.1,
+        "altura": 2.8,
+        "velocidade": 33.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 646,
+        "distancia": 28.4,
+        "angulo": 45.1,
+        "altura": 1.6,
+        "velocidade": 32.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 647,
+        "distancia": 16.7,
+        "angulo": 38.3,
+        "altura": 2.5,
+        "velocidade": 30.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 648,
+        "distancia": 18.2,
+        "angulo": 20.7,
+        "altura": 2.8,
+        "velocidade": 39.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 649,
+        "distancia": 12.2,
+        "angulo": 28.8,
+        "altura": 2.7,
+        "velocidade": 25.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 650,
+        "distancia": 10.3,
+        "angulo": 41.1,
+        "altura": 1.7,
+        "velocidade": 13.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 651,
+        "distancia": 15.1,
+        "angulo": 52.2,
+        "altura": 1.9,
+        "velocidade": 19.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 652,
+        "distancia": 10.3,
+        "angulo": 26.5,
+        "altura": 2.5,
+        "velocidade": 35.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 653,
+        "distancia": 21.4,
+        "angulo": 48.0,
+        "altura": 1.7,
+        "velocidade": 25.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 654,
+        "distancia": 29.9,
+        "angulo": 21.9,
+        "altura": 2.0,
+        "velocidade": 10.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 655,
+        "distancia": 26.3,
+        "angulo": 42.9,
+        "altura": 1.1,
+        "velocidade": 12.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 656,
+        "distancia": 21.5,
+        "angulo": 38.9,
+        "altura": 2.7,
+        "velocidade": 32.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 657,
+        "distancia": 10.1,
+        "angulo": 56.7,
+        "altura": 1.9,
+        "velocidade": 30.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 658,
+        "distancia": 10.2,
+        "angulo": 20.3,
+        "altura": 2.2,
+        "velocidade": 11.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 659,
+        "distancia": 28.2,
+        "angulo": 26.7,
+        "altura": 0.8,
+        "velocidade": 14.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 660,
+        "distancia": 27.7,
+        "angulo": 23.3,
+        "altura": 1.3,
+        "velocidade": 20.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 661,
+        "distancia": 18.9,
+        "angulo": 32.9,
+        "altura": 2.2,
+        "velocidade": 16.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 662,
+        "distancia": 29.5,
+        "angulo": 27.3,
+        "altura": 1.5,
+        "velocidade": 14.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 663,
+        "distancia": 23.0,
+        "angulo": 55.8,
+        "altura": 1.9,
+        "velocidade": 13.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 664,
+        "distancia": 18.0,
+        "angulo": 46.0,
+        "altura": 2.4,
+        "velocidade": 10.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 665,
+        "distancia": 16.1,
+        "angulo": 27.0,
+        "altura": 2.6,
+        "velocidade": 28.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 666,
+        "distancia": 10.8,
+        "angulo": 55.6,
+        "altura": 2.0,
+        "velocidade": 13.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 667,
+        "distancia": 23.6,
+        "angulo": 28.4,
+        "altura": 2.0,
+        "velocidade": 30.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 668,
+        "distancia": 15.6,
+        "angulo": 37.9,
+        "altura": 1.1,
+        "velocidade": 25.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 669,
+        "distancia": 14.2,
+        "angulo": 37.5,
+        "altura": 3.0,
+        "velocidade": 20.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 670,
+        "distancia": 28.1,
+        "angulo": 36.4,
+        "altura": 3.0,
+        "velocidade": 23.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 671,
+        "distancia": 21.1,
+        "angulo": 24.5,
+        "altura": 0.8,
+        "velocidade": 21.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 672,
+        "distancia": 21.2,
+        "angulo": 54.9,
+        "altura": 1.8,
+        "velocidade": 38.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 673,
+        "distancia": 18.3,
+        "angulo": 38.7,
+        "altura": 2.3,
+        "velocidade": 13.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 674,
+        "distancia": 27.9,
+        "angulo": 31.2,
+        "altura": 2.8,
+        "velocidade": 36.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 675,
+        "distancia": 11.3,
+        "angulo": 47.7,
+        "altura": 2.6,
+        "velocidade": 21.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 676,
+        "distancia": 16.5,
+        "angulo": 47.3,
+        "altura": 1.8,
+        "velocidade": 17.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 677,
+        "distancia": 21.9,
+        "angulo": 21.1,
+        "altura": 2.6,
+        "velocidade": 27.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 678,
+        "distancia": 22.1,
+        "angulo": 37.7,
+        "altura": 1.1,
+        "velocidade": 27.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 679,
+        "distancia": 22.6,
+        "angulo": 42.5,
+        "altura": 1.1,
+        "velocidade": 10.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 680,
+        "distancia": 29.7,
+        "angulo": 39.0,
+        "altura": 1.6,
+        "velocidade": 15.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 681,
+        "distancia": 13.7,
+        "angulo": 54.7,
+        "altura": 2.2,
+        "velocidade": 18.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 682,
+        "distancia": 26.9,
+        "angulo": 33.9,
+        "altura": 1.8,
+        "velocidade": 25.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 683,
+        "distancia": 11.0,
+        "angulo": 43.9,
+        "altura": 1.9,
+        "velocidade": 36.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 684,
+        "distancia": 22.5,
+        "angulo": 52.0,
+        "altura": 0.7,
+        "velocidade": 18.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 685,
+        "distancia": 26.6,
+        "angulo": 22.7,
+        "altura": 2.6,
+        "velocidade": 15.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 686,
+        "distancia": 22.9,
+        "angulo": 23.9,
+        "altura": 2.5,
+        "velocidade": 11.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 687,
+        "distancia": 22.3,
+        "angulo": 38.0,
+        "altura": 2.2,
+        "velocidade": 24.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 688,
+        "distancia": 29.0,
+        "angulo": 41.2,
+        "altura": 1.1,
+        "velocidade": 26.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 689,
+        "distancia": 18.6,
+        "angulo": 42.6,
+        "altura": 1.1,
+        "velocidade": 27.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 690,
+        "distancia": 10.1,
+        "angulo": 52.8,
+        "altura": 1.5,
+        "velocidade": 39.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 691,
+        "distancia": 28.1,
+        "angulo": 23.4,
+        "altura": 1.7,
+        "velocidade": 25.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 692,
+        "distancia": 28.7,
+        "angulo": 24.5,
+        "altura": 1.4,
+        "velocidade": 31.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 693,
+        "distancia": 12.5,
+        "angulo": 32.6,
+        "altura": 2.4,
+        "velocidade": 19.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 694,
+        "distancia": 21.9,
+        "angulo": 25.9,
+        "altura": 1.3,
+        "velocidade": 15.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 695,
+        "distancia": 28.5,
+        "angulo": 39.3,
+        "altura": 2.1,
+        "velocidade": 38.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 696,
+        "distancia": 12.2,
+        "angulo": 29.2,
+        "altura": 1.1,
+        "velocidade": 16.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 697,
+        "distancia": 11.1,
+        "angulo": 56.9,
+        "altura": 2.3,
+        "velocidade": 36.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 698,
+        "distancia": 26.5,
+        "angulo": 52.6,
+        "altura": 2.2,
+        "velocidade": 20.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 699,
+        "distancia": 22.4,
+        "angulo": 35.2,
+        "altura": 2.2,
+        "velocidade": 25.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 700,
+        "distancia": 19.6,
+        "angulo": 27.2,
+        "altura": 2.6,
+        "velocidade": 30.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 701,
+        "distancia": 19.8,
+        "angulo": 31.1,
+        "altura": 2.2,
+        "velocidade": 21.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 702,
+        "distancia": 19.5,
+        "angulo": 43.1,
+        "altura": 2.1,
+        "velocidade": 10.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 703,
+        "distancia": 10.1,
+        "angulo": 46.3,
+        "altura": 0.5,
+        "velocidade": 30.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 704,
+        "distancia": 23.1,
+        "angulo": 48.7,
+        "altura": 2.2,
+        "velocidade": 18.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 705,
+        "distancia": 26.1,
+        "angulo": 57.8,
+        "altura": 1.1,
+        "velocidade": 15.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 706,
+        "distancia": 23.8,
+        "angulo": 21.5,
+        "altura": 2.3,
+        "velocidade": 29.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 707,
+        "distancia": 10.7,
+        "angulo": 44.9,
+        "altura": 1.9,
+        "velocidade": 26.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 708,
+        "distancia": 18.8,
+        "angulo": 41.5,
+        "altura": 1.0,
+        "velocidade": 12.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 709,
+        "distancia": 29.9,
+        "angulo": 46.3,
+        "altura": 1.5,
+        "velocidade": 37.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 710,
+        "distancia": 27.7,
+        "angulo": 35.0,
+        "altura": 1.8,
+        "velocidade": 30.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 711,
+        "distancia": 18.4,
+        "angulo": 33.1,
+        "altura": 1.1,
+        "velocidade": 29.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 712,
+        "distancia": 12.3,
+        "angulo": 42.4,
+        "altura": 2.2,
+        "velocidade": 10.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 713,
+        "distancia": 17.7,
+        "angulo": 54.0,
+        "altura": 0.8,
+        "velocidade": 24.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 714,
+        "distancia": 12.4,
+        "angulo": 60.0,
+        "altura": 1.3,
+        "velocidade": 37.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 715,
+        "distancia": 21.2,
+        "angulo": 50.1,
+        "altura": 2.4,
+        "velocidade": 16.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 716,
+        "distancia": 25.0,
+        "angulo": 39.5,
+        "altura": 2.6,
+        "velocidade": 22.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 717,
+        "distancia": 18.8,
+        "angulo": 51.1,
+        "altura": 2.1,
+        "velocidade": 35.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 718,
+        "distancia": 11.3,
+        "angulo": 37.2,
+        "altura": 1.4,
+        "velocidade": 12.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 719,
+        "distancia": 22.4,
+        "angulo": 31.2,
+        "altura": 2.3,
+        "velocidade": 39.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 720,
+        "distancia": 13.9,
+        "angulo": 44.1,
+        "altura": 1.5,
+        "velocidade": 25.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 721,
+        "distancia": 15.1,
+        "angulo": 32.0,
+        "altura": 1.3,
+        "velocidade": 14.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 722,
+        "distancia": 20.0,
+        "angulo": 38.7,
+        "altura": 0.7,
+        "velocidade": 17.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 723,
+        "distancia": 14.0,
+        "angulo": 37.0,
+        "altura": 2.5,
+        "velocidade": 33.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 724,
+        "distancia": 24.8,
+        "angulo": 30.0,
+        "altura": 2.7,
+        "velocidade": 24.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 725,
+        "distancia": 28.3,
+        "angulo": 33.6,
+        "altura": 1.4,
+        "velocidade": 22.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 726,
+        "distancia": 23.4,
+        "angulo": 25.2,
+        "altura": 2.7,
+        "velocidade": 28.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 727,
+        "distancia": 28.3,
+        "angulo": 23.0,
+        "altura": 2.9,
+        "velocidade": 27.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 728,
+        "distancia": 18.6,
+        "angulo": 28.3,
+        "altura": 2.5,
+        "velocidade": 14.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 729,
+        "distancia": 14.6,
+        "angulo": 34.6,
+        "altura": 2.6,
+        "velocidade": 23.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 730,
+        "distancia": 28.5,
+        "angulo": 34.0,
+        "altura": 2.1,
+        "velocidade": 16.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 731,
+        "distancia": 13.4,
+        "angulo": 22.3,
+        "altura": 1.9,
+        "velocidade": 36.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 732,
+        "distancia": 18.1,
+        "angulo": 26.3,
+        "altura": 1.5,
+        "velocidade": 22.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 733,
+        "distancia": 11.4,
+        "angulo": 58.7,
+        "altura": 2.8,
+        "velocidade": 24.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 734,
+        "distancia": 14.1,
+        "angulo": 30.5,
+        "altura": 2.5,
+        "velocidade": 12.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 735,
+        "distancia": 11.8,
+        "angulo": 41.8,
+        "altura": 0.5,
+        "velocidade": 15.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 736,
+        "distancia": 12.4,
+        "angulo": 53.8,
+        "altura": 2.4,
+        "velocidade": 35.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 737,
+        "distancia": 17.0,
+        "angulo": 30.4,
+        "altura": 0.7,
+        "velocidade": 20.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 738,
+        "distancia": 24.2,
+        "angulo": 34.2,
+        "altura": 1.0,
+        "velocidade": 15.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 739,
+        "distancia": 22.5,
+        "angulo": 24.8,
+        "altura": 1.9,
+        "velocidade": 12.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 740,
+        "distancia": 16.1,
+        "angulo": 50.1,
+        "altura": 2.0,
+        "velocidade": 30.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 741,
+        "distancia": 23.2,
+        "angulo": 33.3,
+        "altura": 1.7,
+        "velocidade": 38.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 742,
+        "distancia": 18.4,
+        "angulo": 32.6,
+        "altura": 0.7,
+        "velocidade": 32.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 743,
+        "distancia": 18.0,
+        "angulo": 42.5,
+        "altura": 2.7,
+        "velocidade": 17.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 744,
+        "distancia": 14.2,
+        "angulo": 43.7,
+        "altura": 1.5,
+        "velocidade": 22.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 745,
+        "distancia": 12.7,
+        "angulo": 33.6,
+        "altura": 3.0,
+        "velocidade": 16.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 746,
+        "distancia": 24.7,
+        "angulo": 51.9,
+        "altura": 2.6,
+        "velocidade": 12.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 747,
+        "distancia": 15.5,
+        "angulo": 56.2,
+        "altura": 2.4,
+        "velocidade": 35.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 748,
+        "distancia": 14.1,
+        "angulo": 39.9,
+        "altura": 0.8,
+        "velocidade": 35.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 749,
+        "distancia": 22.4,
+        "angulo": 56.6,
+        "altura": 0.5,
+        "velocidade": 35.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 750,
+        "distancia": 26.3,
+        "angulo": 48.2,
+        "altura": 1.3,
+        "velocidade": 20.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 751,
+        "distancia": 25.9,
+        "angulo": 59.8,
+        "altura": 2.4,
+        "velocidade": 22.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 752,
+        "distancia": 14.6,
+        "angulo": 58.1,
+        "altura": 1.1,
+        "velocidade": 18.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 753,
+        "distancia": 13.7,
+        "angulo": 54.0,
+        "altura": 3.0,
+        "velocidade": 33.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 754,
+        "distancia": 22.5,
+        "angulo": 34.6,
+        "altura": 1.5,
+        "velocidade": 24.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 755,
+        "distancia": 21.5,
+        "angulo": 42.3,
+        "altura": 2.8,
+        "velocidade": 15.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 756,
+        "distancia": 10.5,
+        "angulo": 31.9,
+        "altura": 3.0,
+        "velocidade": 15.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 757,
+        "distancia": 25.0,
+        "angulo": 57.4,
+        "altura": 0.8,
+        "velocidade": 19.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 758,
+        "distancia": 26.8,
+        "angulo": 53.1,
+        "altura": 1.4,
+        "velocidade": 10.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 759,
+        "distancia": 20.6,
+        "angulo": 33.3,
+        "altura": 2.0,
+        "velocidade": 13.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 760,
+        "distancia": 15.3,
+        "angulo": 58.6,
+        "altura": 2.0,
+        "velocidade": 17.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 761,
+        "distancia": 26.9,
+        "angulo": 23.8,
+        "altura": 2.8,
+        "velocidade": 39.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 762,
+        "distancia": 20.8,
+        "angulo": 22.7,
+        "altura": 1.3,
+        "velocidade": 22.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 763,
+        "distancia": 15.9,
+        "angulo": 60.0,
+        "altura": 2.8,
+        "velocidade": 25.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 764,
+        "distancia": 20.4,
+        "angulo": 54.8,
+        "altura": 2.9,
+        "velocidade": 24.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 765,
+        "distancia": 19.8,
+        "angulo": 27.6,
+        "altura": 2.8,
+        "velocidade": 22.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 766,
+        "distancia": 16.2,
+        "angulo": 36.0,
+        "altura": 2.9,
+        "velocidade": 32.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 767,
+        "distancia": 15.0,
+        "angulo": 46.9,
+        "altura": 0.8,
+        "velocidade": 14.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 768,
+        "distancia": 12.1,
+        "angulo": 22.3,
+        "altura": 2.7,
+        "velocidade": 10.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 769,
+        "distancia": 27.2,
+        "angulo": 24.5,
+        "altura": 1.4,
+        "velocidade": 13.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 770,
+        "distancia": 24.2,
+        "angulo": 24.9,
+        "altura": 2.5,
+        "velocidade": 36.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 771,
+        "distancia": 24.8,
+        "angulo": 47.5,
+        "altura": 1.3,
+        "velocidade": 11.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 772,
+        "distancia": 10.2,
+        "angulo": 37.3,
+        "altura": 2.8,
+        "velocidade": 26.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 773,
+        "distancia": 12.4,
+        "angulo": 52.5,
+        "altura": 2.0,
+        "velocidade": 19.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 774,
+        "distancia": 12.1,
+        "angulo": 60.0,
+        "altura": 2.1,
+        "velocidade": 17.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 775,
+        "distancia": 28.6,
+        "angulo": 32.1,
+        "altura": 0.6,
+        "velocidade": 13.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 776,
+        "distancia": 11.8,
+        "angulo": 22.1,
+        "altura": 0.7,
+        "velocidade": 22.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 777,
+        "distancia": 21.1,
+        "angulo": 39.7,
+        "altura": 2.8,
+        "velocidade": 24.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 778,
+        "distancia": 16.8,
+        "angulo": 28.0,
+        "altura": 0.9,
+        "velocidade": 32.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 779,
+        "distancia": 24.1,
+        "angulo": 39.3,
+        "altura": 1.3,
+        "velocidade": 21.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 780,
+        "distancia": 26.7,
+        "angulo": 35.4,
+        "altura": 2.3,
+        "velocidade": 19.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 781,
+        "distancia": 12.6,
+        "angulo": 24.0,
+        "altura": 1.1,
+        "velocidade": 11.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 782,
+        "distancia": 26.5,
+        "angulo": 47.6,
+        "altura": 2.2,
+        "velocidade": 35.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 783,
+        "distancia": 15.8,
+        "angulo": 55.2,
+        "altura": 2.1,
+        "velocidade": 20.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 784,
+        "distancia": 18.3,
+        "angulo": 39.5,
+        "altura": 2.8,
+        "velocidade": 39.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 785,
+        "distancia": 20.7,
+        "angulo": 46.5,
+        "altura": 1.1,
+        "velocidade": 24.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 786,
+        "distancia": 19.0,
+        "angulo": 30.0,
+        "altura": 0.6,
+        "velocidade": 37.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 787,
+        "distancia": 10.5,
+        "angulo": 23.4,
+        "altura": 2.4,
+        "velocidade": 26.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 788,
+        "distancia": 15.6,
+        "angulo": 42.2,
+        "altura": 2.2,
+        "velocidade": 15.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 789,
+        "distancia": 12.9,
+        "angulo": 58.1,
+        "altura": 2.4,
+        "velocidade": 26.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 790,
+        "distancia": 21.1,
+        "angulo": 57.9,
+        "altura": 0.8,
+        "velocidade": 26.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 791,
+        "distancia": 21.3,
+        "angulo": 53.0,
+        "altura": 2.6,
+        "velocidade": 16.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 792,
+        "distancia": 19.9,
+        "angulo": 34.3,
+        "altura": 0.9,
+        "velocidade": 25.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 793,
+        "distancia": 20.7,
+        "angulo": 22.2,
+        "altura": 2.8,
+        "velocidade": 37.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 794,
+        "distancia": 27.9,
+        "angulo": 43.0,
+        "altura": 1.8,
+        "velocidade": 19.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 795,
+        "distancia": 25.8,
+        "angulo": 56.2,
+        "altura": 2.4,
+        "velocidade": 38.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 796,
+        "distancia": 10.1,
+        "angulo": 53.6,
+        "altura": 0.8,
+        "velocidade": 12.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 797,
+        "distancia": 11.3,
+        "angulo": 33.6,
+        "altura": 1.3,
+        "velocidade": 26.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 798,
+        "distancia": 17.0,
+        "angulo": 45.3,
+        "altura": 1.3,
+        "velocidade": 23.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 799,
+        "distancia": 18.8,
+        "angulo": 32.0,
+        "altura": 2.9,
+        "velocidade": 20.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 800,
+        "distancia": 10.7,
+        "angulo": 43.6,
+        "altura": 2.7,
+        "velocidade": 16.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 801,
+        "distancia": 17.3,
+        "angulo": 25.4,
+        "altura": 2.1,
+        "velocidade": 20.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 802,
+        "distancia": 22.0,
+        "angulo": 57.1,
+        "altura": 0.9,
+        "velocidade": 35.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 803,
+        "distancia": 25.8,
+        "angulo": 27.7,
+        "altura": 2.9,
+        "velocidade": 16.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 804,
+        "distancia": 18.6,
+        "angulo": 50.1,
+        "altura": 1.5,
+        "velocidade": 14.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 805,
+        "distancia": 12.1,
+        "angulo": 29.4,
+        "altura": 0.5,
+        "velocidade": 39.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 806,
+        "distancia": 18.1,
+        "angulo": 41.4,
+        "altura": 1.5,
+        "velocidade": 38.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 807,
+        "distancia": 11.8,
+        "angulo": 44.1,
+        "altura": 2.4,
+        "velocidade": 16.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 808,
+        "distancia": 28.5,
+        "angulo": 59.9,
+        "altura": 1.3,
+        "velocidade": 12.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 809,
+        "distancia": 16.6,
+        "angulo": 28.9,
+        "altura": 1.3,
+        "velocidade": 26.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 810,
+        "distancia": 21.0,
+        "angulo": 32.4,
+        "altura": 2.3,
+        "velocidade": 19.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 811,
+        "distancia": 21.8,
+        "angulo": 34.2,
+        "altura": 2.9,
+        "velocidade": 16.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 812,
+        "distancia": 19.8,
+        "angulo": 24.9,
+        "altura": 2.0,
+        "velocidade": 10.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 813,
+        "distancia": 15.7,
+        "angulo": 40.8,
+        "altura": 1.2,
+        "velocidade": 20.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 814,
+        "distancia": 14.9,
+        "angulo": 38.5,
+        "altura": 2.1,
+        "velocidade": 19.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 815,
+        "distancia": 15.9,
+        "angulo": 54.1,
+        "altura": 1.5,
+        "velocidade": 17.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 816,
+        "distancia": 11.0,
+        "angulo": 27.4,
+        "altura": 2.6,
+        "velocidade": 28.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 817,
+        "distancia": 19.2,
+        "angulo": 31.0,
+        "altura": 1.6,
+        "velocidade": 11.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 818,
+        "distancia": 10.2,
+        "angulo": 48.1,
+        "altura": 1.8,
+        "velocidade": 12.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 819,
+        "distancia": 25.1,
+        "angulo": 50.2,
+        "altura": 0.9,
+        "velocidade": 28.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 820,
+        "distancia": 21.0,
+        "angulo": 59.2,
+        "altura": 2.5,
+        "velocidade": 26.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 821,
+        "distancia": 14.5,
+        "angulo": 45.2,
+        "altura": 0.7,
+        "velocidade": 39.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 822,
+        "distancia": 17.4,
+        "angulo": 33.2,
+        "altura": 0.6,
+        "velocidade": 16.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 823,
+        "distancia": 23.6,
+        "angulo": 44.5,
+        "altura": 2.4,
+        "velocidade": 24.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 824,
+        "distancia": 18.9,
+        "angulo": 40.5,
+        "altura": 2.3,
+        "velocidade": 13.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 825,
+        "distancia": 21.7,
+        "angulo": 43.2,
+        "altura": 1.9,
+        "velocidade": 24.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 826,
+        "distancia": 19.0,
+        "angulo": 54.7,
+        "altura": 1.5,
+        "velocidade": 33.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 827,
+        "distancia": 25.9,
+        "angulo": 30.3,
+        "altura": 2.4,
+        "velocidade": 32.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 828,
+        "distancia": 23.9,
+        "angulo": 50.3,
+        "altura": 1.9,
+        "velocidade": 27.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 829,
+        "distancia": 29.9,
+        "angulo": 21.5,
+        "altura": 1.3,
+        "velocidade": 29.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 830,
+        "distancia": 23.3,
+        "angulo": 23.6,
+        "altura": 2.7,
+        "velocidade": 24.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 831,
+        "distancia": 28.3,
+        "angulo": 54.1,
+        "altura": 2.3,
+        "velocidade": 38.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 832,
+        "distancia": 11.8,
+        "angulo": 46.7,
+        "altura": 2.0,
+        "velocidade": 18.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 833,
+        "distancia": 23.3,
+        "angulo": 24.0,
+        "altura": 2.4,
+        "velocidade": 22.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 834,
+        "distancia": 16.0,
+        "angulo": 56.8,
+        "altura": 2.0,
+        "velocidade": 34.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 835,
+        "distancia": 22.2,
+        "angulo": 24.2,
+        "altura": 0.9,
+        "velocidade": 15.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 836,
+        "distancia": 19.6,
+        "angulo": 31.3,
+        "altura": 2.6,
+        "velocidade": 33.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 837,
+        "distancia": 11.1,
+        "angulo": 58.8,
+        "altura": 2.6,
+        "velocidade": 25.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 838,
+        "distancia": 14.3,
+        "angulo": 58.5,
+        "altura": 1.3,
+        "velocidade": 22.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 839,
+        "distancia": 13.3,
+        "angulo": 28.1,
+        "altura": 3.0,
+        "velocidade": 38.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 840,
+        "distancia": 10.7,
+        "angulo": 32.1,
+        "altura": 2.4,
+        "velocidade": 26.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 841,
+        "distancia": 18.7,
+        "angulo": 35.2,
+        "altura": 2.9,
+        "velocidade": 18.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 842,
+        "distancia": 16.2,
+        "angulo": 29.9,
+        "altura": 1.6,
+        "velocidade": 34.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 843,
+        "distancia": 25.1,
+        "angulo": 25.6,
+        "altura": 2.6,
+        "velocidade": 12.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 844,
+        "distancia": 11.3,
+        "angulo": 34.7,
+        "altura": 1.3,
+        "velocidade": 16.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 845,
+        "distancia": 29.1,
+        "angulo": 20.6,
+        "altura": 0.6,
+        "velocidade": 20.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 846,
+        "distancia": 28.3,
+        "angulo": 50.0,
+        "altura": 1.8,
+        "velocidade": 39.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 847,
+        "distancia": 23.7,
+        "angulo": 39.1,
+        "altura": 1.9,
+        "velocidade": 29.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 848,
+        "distancia": 25.4,
+        "angulo": 31.8,
+        "altura": 2.1,
+        "velocidade": 30.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 849,
+        "distancia": 18.9,
+        "angulo": 36.3,
+        "altura": 2.6,
+        "velocidade": 12.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 850,
+        "distancia": 19.6,
+        "angulo": 35.3,
+        "altura": 2.0,
+        "velocidade": 31.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 851,
+        "distancia": 24.3,
+        "angulo": 50.6,
+        "altura": 0.8,
+        "velocidade": 13.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 852,
+        "distancia": 30.0,
+        "angulo": 32.2,
+        "altura": 2.5,
+        "velocidade": 36.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 853,
+        "distancia": 24.9,
+        "angulo": 32.6,
+        "altura": 0.5,
+        "velocidade": 19.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 854,
+        "distancia": 24.8,
+        "angulo": 40.6,
+        "altura": 1.1,
+        "velocidade": 25.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 855,
+        "distancia": 27.1,
+        "angulo": 56.0,
+        "altura": 1.9,
+        "velocidade": 18.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 856,
+        "distancia": 17.1,
+        "angulo": 53.5,
+        "altura": 2.7,
+        "velocidade": 11.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 857,
+        "distancia": 29.2,
+        "angulo": 24.9,
+        "altura": 1.5,
+        "velocidade": 14.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 858,
+        "distancia": 28.1,
+        "angulo": 37.5,
+        "altura": 2.0,
+        "velocidade": 38.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 859,
+        "distancia": 14.0,
+        "angulo": 44.7,
+        "altura": 2.7,
+        "velocidade": 35.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 860,
+        "distancia": 29.0,
+        "angulo": 42.8,
+        "altura": 1.6,
+        "velocidade": 38.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 861,
+        "distancia": 20.4,
+        "angulo": 31.3,
+        "altura": 2.9,
+        "velocidade": 11.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 862,
+        "distancia": 28.5,
+        "angulo": 46.7,
+        "altura": 1.3,
+        "velocidade": 11.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 863,
+        "distancia": 13.3,
+        "angulo": 47.3,
+        "altura": 2.2,
+        "velocidade": 39.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 864,
+        "distancia": 20.7,
+        "angulo": 52.3,
+        "altura": 2.2,
+        "velocidade": 29.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 865,
+        "distancia": 17.9,
+        "angulo": 28.5,
+        "altura": 0.6,
+        "velocidade": 24.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 866,
+        "distancia": 10.1,
+        "angulo": 45.4,
+        "altura": 0.6,
+        "velocidade": 12.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 867,
+        "distancia": 29.6,
+        "angulo": 31.5,
+        "altura": 0.8,
+        "velocidade": 10.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 868,
+        "distancia": 18.6,
+        "angulo": 20.3,
+        "altura": 2.3,
+        "velocidade": 11.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 869,
+        "distancia": 25.5,
+        "angulo": 45.8,
+        "altura": 2.0,
+        "velocidade": 29.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 870,
+        "distancia": 12.8,
+        "angulo": 20.5,
+        "altura": 2.3,
+        "velocidade": 23.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 871,
+        "distancia": 17.6,
+        "angulo": 58.9,
+        "altura": 0.8,
+        "velocidade": 33.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 872,
+        "distancia": 12.9,
+        "angulo": 43.1,
+        "altura": 1.0,
+        "velocidade": 21.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 873,
+        "distancia": 22.3,
+        "angulo": 21.6,
+        "altura": 1.9,
+        "velocidade": 19.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 874,
+        "distancia": 11.2,
+        "angulo": 56.3,
+        "altura": 2.0,
+        "velocidade": 14.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 875,
+        "distancia": 26.0,
+        "angulo": 20.1,
+        "altura": 3.0,
+        "velocidade": 26.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 876,
+        "distancia": 21.6,
+        "angulo": 24.6,
+        "altura": 1.4,
+        "velocidade": 14.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 877,
+        "distancia": 16.2,
+        "angulo": 58.0,
+        "altura": 2.2,
+        "velocidade": 17.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 878,
+        "distancia": 21.1,
+        "angulo": 26.0,
+        "altura": 0.8,
+        "velocidade": 27.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 879,
+        "distancia": 14.1,
+        "angulo": 43.0,
+        "altura": 0.6,
+        "velocidade": 29.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 880,
+        "distancia": 23.7,
+        "angulo": 48.0,
+        "altura": 0.6,
+        "velocidade": 17.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 881,
+        "distancia": 25.8,
+        "angulo": 58.5,
+        "altura": 1.3,
+        "velocidade": 26.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 882,
+        "distancia": 25.3,
+        "angulo": 36.9,
+        "altura": 0.6,
+        "velocidade": 19.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 883,
+        "distancia": 12.3,
+        "angulo": 49.8,
+        "altura": 1.8,
+        "velocidade": 36.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 884,
+        "distancia": 27.6,
+        "angulo": 37.9,
+        "altura": 2.1,
+        "velocidade": 17.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 885,
+        "distancia": 27.8,
+        "angulo": 28.2,
+        "altura": 1.2,
+        "velocidade": 39.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 886,
+        "distancia": 19.7,
+        "angulo": 58.7,
+        "altura": 2.6,
+        "velocidade": 13.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 887,
+        "distancia": 21.5,
+        "angulo": 31.0,
+        "altura": 2.3,
+        "velocidade": 39.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 888,
+        "distancia": 26.5,
+        "angulo": 35.4,
+        "altura": 2.4,
+        "velocidade": 12.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 889,
+        "distancia": 25.5,
+        "angulo": 26.0,
+        "altura": 2.2,
+        "velocidade": 25.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 890,
+        "distancia": 13.9,
+        "angulo": 39.5,
+        "altura": 2.8,
+        "velocidade": 31.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 891,
+        "distancia": 25.0,
+        "angulo": 44.3,
+        "altura": 0.8,
+        "velocidade": 36.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 892,
+        "distancia": 20.8,
+        "angulo": 33.0,
+        "altura": 2.4,
+        "velocidade": 37.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 893,
+        "distancia": 20.9,
+        "angulo": 53.0,
+        "altura": 2.4,
+        "velocidade": 17.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 894,
+        "distancia": 10.0,
+        "angulo": 20.9,
+        "altura": 1.8,
+        "velocidade": 34.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 895,
+        "distancia": 28.6,
+        "angulo": 22.4,
+        "altura": 1.1,
+        "velocidade": 26.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 896,
+        "distancia": 23.8,
+        "angulo": 27.3,
+        "altura": 1.3,
+        "velocidade": 13.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 897,
+        "distancia": 21.7,
+        "angulo": 40.4,
+        "altura": 2.4,
+        "velocidade": 23.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 898,
+        "distancia": 12.2,
+        "angulo": 54.0,
+        "altura": 1.9,
+        "velocidade": 25.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 899,
+        "distancia": 29.4,
+        "angulo": 25.0,
+        "altura": 2.3,
+        "velocidade": 34.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 900,
+        "distancia": 20.6,
+        "angulo": 57.8,
+        "altura": 1.7,
+        "velocidade": 13.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 901,
+        "distancia": 27.1,
+        "angulo": 24.7,
+        "altura": 1.4,
+        "velocidade": 18.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 902,
+        "distancia": 25.1,
+        "angulo": 46.5,
+        "altura": 1.2,
+        "velocidade": 31.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 903,
+        "distancia": 11.8,
+        "angulo": 48.5,
+        "altura": 2.2,
+        "velocidade": 23.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 904,
+        "distancia": 12.6,
+        "angulo": 23.0,
+        "altura": 2.7,
+        "velocidade": 16.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 905,
+        "distancia": 22.9,
+        "angulo": 38.1,
+        "altura": 1.8,
+        "velocidade": 20.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 906,
+        "distancia": 25.3,
+        "angulo": 24.4,
+        "altura": 1.3,
+        "velocidade": 29.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 907,
+        "distancia": 19.3,
+        "angulo": 42.8,
+        "altura": 2.3,
+        "velocidade": 34.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 908,
+        "distancia": 26.7,
+        "angulo": 30.6,
+        "altura": 0.7,
+        "velocidade": 12.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 909,
+        "distancia": 25.2,
+        "angulo": 30.9,
+        "altura": 1.9,
+        "velocidade": 20.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 910,
+        "distancia": 21.3,
+        "angulo": 44.0,
+        "altura": 2.7,
+        "velocidade": 11.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 911,
+        "distancia": 12.9,
+        "angulo": 49.5,
+        "altura": 1.6,
+        "velocidade": 26.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 912,
+        "distancia": 23.3,
+        "angulo": 36.7,
+        "altura": 1.6,
+        "velocidade": 36.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 913,
+        "distancia": 11.7,
+        "angulo": 28.0,
+        "altura": 1.1,
+        "velocidade": 31.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 914,
+        "distancia": 13.9,
+        "angulo": 47.7,
+        "altura": 2.4,
+        "velocidade": 17.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 915,
+        "distancia": 15.2,
+        "angulo": 47.8,
+        "altura": 1.7,
+        "velocidade": 27.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 916,
+        "distancia": 23.3,
+        "angulo": 31.6,
+        "altura": 2.7,
+        "velocidade": 39.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 917,
+        "distancia": 25.4,
+        "angulo": 42.1,
+        "altura": 1.9,
+        "velocidade": 28.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 918,
+        "distancia": 11.0,
+        "angulo": 24.3,
+        "altura": 0.7,
+        "velocidade": 24.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 919,
+        "distancia": 21.0,
+        "angulo": 30.9,
+        "altura": 2.3,
+        "velocidade": 33.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 920,
+        "distancia": 16.8,
+        "angulo": 46.9,
+        "altura": 1.7,
+        "velocidade": 17.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 921,
+        "distancia": 17.1,
+        "angulo": 49.2,
+        "altura": 1.0,
+        "velocidade": 14.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 922,
+        "distancia": 14.0,
+        "angulo": 30.8,
+        "altura": 0.9,
+        "velocidade": 13.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 923,
+        "distancia": 17.3,
+        "angulo": 41.2,
+        "altura": 1.1,
+        "velocidade": 11.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 924,
+        "distancia": 29.7,
+        "angulo": 30.6,
+        "altura": 1.6,
+        "velocidade": 24.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 925,
+        "distancia": 11.3,
+        "angulo": 23.6,
+        "altura": 1.0,
+        "velocidade": 23.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 926,
+        "distancia": 12.2,
+        "angulo": 58.2,
+        "altura": 2.6,
+        "velocidade": 14.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 927,
+        "distancia": 22.5,
+        "angulo": 40.2,
+        "altura": 2.3,
+        "velocidade": 20.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 928,
+        "distancia": 26.6,
+        "angulo": 36.3,
+        "altura": 2.5,
+        "velocidade": 11.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 929,
+        "distancia": 21.1,
+        "angulo": 39.3,
+        "altura": 0.9,
+        "velocidade": 34.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 930,
+        "distancia": 23.2,
+        "angulo": 24.9,
+        "altura": 1.2,
+        "velocidade": 35.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 931,
+        "distancia": 17.2,
+        "angulo": 49.9,
+        "altura": 2.7,
+        "velocidade": 30.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 932,
+        "distancia": 12.7,
+        "angulo": 43.9,
+        "altura": 1.4,
+        "velocidade": 30.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 933,
+        "distancia": 25.2,
+        "angulo": 26.1,
+        "altura": 2.4,
+        "velocidade": 38.7,
+        "resultado": 1
+    },
+    {
+        "cobranca": 934,
+        "distancia": 11.9,
+        "angulo": 21.8,
+        "altura": 2.9,
+        "velocidade": 15.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 935,
+        "distancia": 23.8,
+        "angulo": 37.9,
+        "altura": 2.3,
+        "velocidade": 34.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 936,
+        "distancia": 13.5,
+        "angulo": 38.2,
+        "altura": 1.3,
+        "velocidade": 17.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 937,
+        "distancia": 24.2,
+        "angulo": 54.9,
+        "altura": 0.6,
+        "velocidade": 22.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 938,
+        "distancia": 21.1,
+        "angulo": 51.1,
+        "altura": 2.4,
+        "velocidade": 10.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 939,
+        "distancia": 20.9,
+        "angulo": 47.4,
+        "altura": 1.6,
+        "velocidade": 24.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 940,
+        "distancia": 28.7,
+        "angulo": 56.2,
+        "altura": 0.7,
+        "velocidade": 21.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 941,
+        "distancia": 25.6,
+        "angulo": 49.2,
+        "altura": 0.7,
+        "velocidade": 16.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 942,
+        "distancia": 16.5,
+        "angulo": 50.1,
+        "altura": 0.8,
+        "velocidade": 17.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 943,
+        "distancia": 14.2,
+        "angulo": 51.6,
+        "altura": 2.8,
+        "velocidade": 18.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 944,
+        "distancia": 24.8,
+        "angulo": 22.5,
+        "altura": 0.8,
+        "velocidade": 20.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 945,
+        "distancia": 23.3,
+        "angulo": 45.5,
+        "altura": 1.8,
+        "velocidade": 19.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 946,
+        "distancia": 18.4,
+        "angulo": 22.1,
+        "altura": 2.0,
+        "velocidade": 36.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 947,
+        "distancia": 27.7,
+        "angulo": 21.8,
+        "altura": 1.7,
+        "velocidade": 21.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 948,
+        "distancia": 20.0,
+        "angulo": 20.4,
+        "altura": 1.4,
+        "velocidade": 13.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 949,
+        "distancia": 10.8,
+        "angulo": 32.3,
+        "altura": 0.6,
+        "velocidade": 39.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 950,
+        "distancia": 26.8,
+        "angulo": 59.7,
+        "altura": 2.0,
+        "velocidade": 25.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 951,
+        "distancia": 12.2,
+        "angulo": 33.7,
+        "altura": 2.6,
+        "velocidade": 29.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 952,
+        "distancia": 13.2,
+        "angulo": 23.0,
+        "altura": 1.9,
+        "velocidade": 17.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 953,
+        "distancia": 29.3,
+        "angulo": 34.0,
+        "altura": 0.7,
+        "velocidade": 12.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 954,
+        "distancia": 29.5,
+        "angulo": 28.9,
+        "altura": 1.6,
+        "velocidade": 31.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 955,
+        "distancia": 12.8,
+        "angulo": 50.2,
+        "altura": 1.6,
+        "velocidade": 31.5,
+        "resultado": 0
+    },
+    {
+        "cobranca": 956,
+        "distancia": 23.6,
+        "angulo": 54.6,
+        "altura": 0.7,
+        "velocidade": 22.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 957,
+        "distancia": 15.6,
+        "angulo": 20.8,
+        "altura": 2.7,
+        "velocidade": 39.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 958,
+        "distancia": 16.3,
+        "angulo": 28.6,
+        "altura": 2.5,
+        "velocidade": 26.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 959,
+        "distancia": 14.1,
+        "angulo": 33.1,
+        "altura": 2.4,
+        "velocidade": 24.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 960,
+        "distancia": 17.9,
+        "angulo": 52.2,
+        "altura": 1.9,
+        "velocidade": 10.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 961,
+        "distancia": 14.7,
+        "angulo": 47.7,
+        "altura": 1.9,
+        "velocidade": 29.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 962,
+        "distancia": 14.8,
+        "angulo": 48.0,
+        "altura": 1.8,
+        "velocidade": 36.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 963,
+        "distancia": 27.1,
+        "angulo": 51.2,
+        "altura": 3.0,
+        "velocidade": 32.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 964,
+        "distancia": 23.7,
+        "angulo": 23.8,
+        "altura": 0.7,
+        "velocidade": 15.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 965,
+        "distancia": 28.1,
+        "angulo": 29.8,
+        "altura": 1.0,
+        "velocidade": 36.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 966,
+        "distancia": 28.0,
+        "angulo": 32.9,
+        "altura": 2.3,
+        "velocidade": 37.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 967,
+        "distancia": 13.7,
+        "angulo": 33.1,
+        "altura": 0.5,
+        "velocidade": 28.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 968,
+        "distancia": 26.0,
+        "angulo": 52.3,
+        "altura": 1.2,
+        "velocidade": 17.0,
+        "resultado": 1
+    },
+    {
+        "cobranca": 969,
+        "distancia": 28.9,
+        "angulo": 35.5,
+        "altura": 2.1,
+        "velocidade": 21.2,
+        "resultado": 1
+    },
+    {
+        "cobranca": 970,
+        "distancia": 18.9,
+        "angulo": 31.5,
+        "altura": 2.6,
+        "velocidade": 10.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 971,
+        "distancia": 10.2,
+        "angulo": 25.7,
+        "altura": 1.5,
+        "velocidade": 28.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 972,
+        "distancia": 23.9,
+        "angulo": 43.0,
+        "altura": 2.1,
+        "velocidade": 19.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 973,
+        "distancia": 28.0,
+        "angulo": 33.8,
+        "altura": 1.6,
+        "velocidade": 35.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 974,
+        "distancia": 28.1,
+        "angulo": 58.7,
+        "altura": 0.6,
+        "velocidade": 24.2,
+        "resultado": 0
+    },
+    {
+        "cobranca": 975,
+        "distancia": 26.3,
+        "angulo": 53.7,
+        "altura": 1.8,
+        "velocidade": 22.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 976,
+        "distancia": 26.6,
+        "angulo": 46.1,
+        "altura": 1.3,
+        "velocidade": 15.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 977,
+        "distancia": 24.3,
+        "angulo": 48.7,
+        "altura": 1.0,
+        "velocidade": 39.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 978,
+        "distancia": 29.9,
+        "angulo": 23.9,
+        "altura": 2.5,
+        "velocidade": 32.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 979,
+        "distancia": 12.1,
+        "angulo": 46.6,
+        "altura": 2.5,
+        "velocidade": 30.1,
+        "resultado": 1
+    },
+    {
+        "cobranca": 980,
+        "distancia": 13.3,
+        "angulo": 41.2,
+        "altura": 2.6,
+        "velocidade": 16.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 981,
+        "distancia": 21.2,
+        "angulo": 36.5,
+        "altura": 1.6,
+        "velocidade": 11.3,
+        "resultado": 0
+    },
+    {
+        "cobranca": 982,
+        "distancia": 18.6,
+        "angulo": 32.8,
+        "altura": 1.0,
+        "velocidade": 19.3,
+        "resultado": 1
+    },
+    {
+        "cobranca": 983,
+        "distancia": 29.7,
+        "angulo": 60.0,
+        "altura": 0.9,
+        "velocidade": 27.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 984,
+        "distancia": 16.2,
+        "angulo": 51.3,
+        "altura": 0.9,
+        "velocidade": 19.9,
+        "resultado": 1
+    },
+    {
+        "cobranca": 985,
+        "distancia": 30.0,
+        "angulo": 41.5,
+        "altura": 2.3,
+        "velocidade": 23.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 986,
+        "distancia": 12.7,
+        "angulo": 31.3,
+        "altura": 1.9,
+        "velocidade": 11.7,
+        "resultado": 0
+    },
+    {
+        "cobranca": 987,
+        "distancia": 21.3,
+        "angulo": 40.4,
+        "altura": 2.5,
+        "velocidade": 15.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 988,
+        "distancia": 14.9,
+        "angulo": 31.1,
+        "altura": 0.5,
+        "velocidade": 28.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 989,
+        "distancia": 17.9,
+        "angulo": 22.1,
+        "altura": 0.9,
+        "velocidade": 31.0,
+        "resultado": 0
+    },
+    {
+        "cobranca": 990,
+        "distancia": 17.5,
+        "angulo": 43.0,
+        "altura": 3.0,
+        "velocidade": 27.9,
+        "resultado": 0
+    },
+    {
+        "cobranca": 991,
+        "distancia": 22.6,
+        "angulo": 38.6,
+        "altura": 2.7,
+        "velocidade": 25.4,
+        "resultado": 0
+    },
+    {
+        "cobranca": 992,
+        "distancia": 17.8,
+        "angulo": 21.2,
+        "altura": 2.3,
+        "velocidade": 29.8,
+        "resultado": 1
+    },
+    {
+        "cobranca": 993,
+        "distancia": 14.6,
+        "angulo": 32.3,
+        "altura": 1.5,
+        "velocidade": 22.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 994,
+        "distancia": 20.8,
+        "angulo": 22.3,
+        "altura": 1.5,
+        "velocidade": 18.4,
+        "resultado": 1
+    },
+    {
+        "cobranca": 995,
+        "distancia": 14.8,
+        "angulo": 22.6,
+        "altura": 1.1,
+        "velocidade": 18.5,
+        "resultado": 1
+    },
+    {
+        "cobranca": 996,
+        "distancia": 29.2,
+        "angulo": 50.5,
+        "altura": 2.0,
+        "velocidade": 36.6,
+        "resultado": 0
+    },
+    {
+        "cobranca": 997,
+        "distancia": 19.3,
+        "angulo": 37.2,
+        "altura": 2.6,
+        "velocidade": 19.6,
+        "resultado": 1
+    },
+    {
+        "cobranca": 998,
+        "distancia": 13.8,
+        "angulo": 58.9,
+        "altura": 1.2,
+        "velocidade": 32.1,
+        "resultado": 0
+    },
+    {
+        "cobranca": 999,
+        "distancia": 10.5,
+        "angulo": 51.3,
+        "altura": 0.6,
+        "velocidade": 34.8,
+        "resultado": 0
+    },
+    {
+        "cobranca": 1000,
+        "distancia": 19.5,
+        "angulo": 38.0,
+        "altura": 2.0,
+        "velocidade": 21.0,
+        "resultado": 1
+    }
+]
