@@ -30,6 +30,32 @@ A performance analysis tool for tracking and analyzing free kick performance in 
      - Optimal variable ranges
      - Training recommendations
 
+## Technologies
+
+1. **Languages**
+   - Python 3.x
+
+2. **Core Libraries**
+   - `pandas` - Data manipulation and analysis
+   - `numpy` - Numerical computing
+   - `scikit-learn` - Machine learning (LinearRegression)
+   - `matplotlib` - Data visualization
+   - `fpdf` - PDF report generation
+
+3. **Data Formats**
+   - JSON - Data storage
+   - PDF - Performance reports
+   - PNG - Visualizations
+
+4. **Analysis Tools**
+   - Linear Regression for trend analysis
+   - Statistical analysis with pandas
+   - Data visualization with matplotlib
+
+5. **Development Tools**
+   - Git for version control
+   - Markdown for documentation
+
 ## Project Structure
 
 ```
